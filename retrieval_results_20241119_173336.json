@@ -1,0 +1,992 @@
+[
+  {
+    "question": "Based on Figure 4.14's electron micrograph, how do cristae contribute to mitochondrial function?",
+    "retrieved_chunks": [
+      {
+        "text": "your c ells don \u2019t get enough o xygen, they do not mak e much A TP. Instead, pr oducing lactic acid ac companies the small amount of\nATP they mak e in the absenc e of o xygen.\nMitochondria ar e oval-shaped, double membr ane org anelles ( Figur e 4.14 ) that ha ve their o wn ribosomes and DN A. E ach\nmembr ane is a phospholipid bila yer embedded with pr oteins . The inner la yer has f olds c alled cristae . We call the ar ea\nsurr ounded b y the f olds the mitochondrial matrix. The cristae and the matrix ha ve diff erent r oles in c ellular r espir ation.\nFigur e4.14 This electr on micr ograph sho ws a mit ochondrion thr ough an electr on micr oscope. This or ganel le has an out er membr ane and\nan inner membr ane. The inner membr ane c ontains f olds , cal led cris tae, which incr ease its sur face area. We cal l the spac e betw een the tw o",
+        "section": "4.10",
+        "score": 0.0
+      },
+      {
+        "text": "embedded in the inner mitochondrial membr ane and tw o\nsmall diffusible electr on c arriers shuttling electr ons betw een\nthem. The electr ons ar e passed thr ough a series of r edox\nreactions , with a small amount of fr ee energy used at thr ee\npoints to tr ansport h ydrogen ions acr oss a membr ane. This\nprocess c ontributes to the gr adient used in chemiosmosis .\nThe electr ons passing thr ough the electr on tr ansport chain\ngradually lose energy . High-energy electr ons donated to the\nchain b y either N ADH or F ADH 2complete the chain, as lo w-\nenergy electr ons r educ e oxygen molecules and f orm w ater .\nThe lev el of fr ee energy of the electr ons dr ops fr om about 60\nkcal/mol in N ADH or 45 k cal/mol in F ADH 2to about 0 k cal/\nmol in w ater . The end pr oducts of the electr on tr ansport\nchain ar e water and A TP. A number of intermediate\ncompounds of the citric acid cy cle c an be div erted into the\nanabolism of other biochemic al molecules , such as",
+        "section": "7.12",
+        "score": 0.0
+      },
+      {
+        "text": "mitochondrial inner membr ane, can be seen in cr oss-section. (cr edit: L ouise Ho ward)\nThe thir d line of evidenc e comes fr om the pr oduction of new mitochondria. M itochondria divide independently b y a pr ocess\nthat r esembles binar y fission in pr okaryotes . Mitochondria arise only fr om pr evious mitochondria; they ar e not f ormed fr om\nscratch (de no vo) by the euk aryotic c ell. M itochondria ma y fuse together; and they ma y be mo ved ar ound inside the c ell b y\ninter actions with the cytosk eleton. They r eproduc e within their enclosing c ell and ar e distributed with the cytoplasm when a c ell\ndivides or tw o cells fuse . Ther efore, although these org anelles ar e highly inte grated into the euk aryotic c ell, they still r eproduc e\nas if they w ere independent org anisms within the c ell. H owever, their r eproduction is synchr onized with the activity and",
+        "section": "23.1",
+        "score": 0.0
+      },
+      {
+        "text": "on one side of the membr ane.\nIf the membr ane w ere continuously open to simple diffusion b y the h ydrogen ions , the ions w ould tend to diffuse back acr oss\ninto the matrix, driv en b y the c oncentr ations pr oducing their electr ochemic al gr adient. R ecall that man y ions c annot diffuse\nthrough the nonpolar r egions of phospholipid membr anes without the aid of ion channels . Similarly , hydrogen ions in the\nmatrix spac e can only pass thr ough the inner mitochondrial membr ane b y an inte gral membr ane pr otein c alled A TP synthase\n(Figur e 7.11 ). This c omple x pr otein acts as a tin y gener ator , turned b y the f orce of the h ydrogen ions diffusing thr ough it, do wn\ntheir electr ochemic al gr adient. The turning of parts of this molecular machine f acilitates the addition of a phosphate to ADP ,\nforming A TP,using the potential energy of the h ydrogen ion gr adient .\nVISU AL C ONNE CTION",
+        "section": "6.2",
+        "score": 0.0
+      },
+      {
+        "text": "transport chain is pr esent with multiple c opies in the inner mitochondrial membr ane of euk aryotes and within the plasma\nmembr ane of pr okaryotes .\nFigur e7.10 The electr on tr anspor t chain is a series o f electr on tr anspor ters embedded in the inner mit ochondrial membr ane that shut tles\nelectr ons fr om NADH and F ADH 2to molecular o xygen. In the pr ocess, protons ar e pumped fr om the mit ochondrial matrix t o the\nintermembr ane spac e, and o xygen is r educ ed to form w ater.\nComple x I\nFirst, tw o electr ons ar e carried to the first c omple x via N ADH . This c omple x, labeled I, is c omposed of fla vin mononucleotide\n(FMN) and an ir on-sulfur (F e-S)-c ontaining pr otein. FMN , which is deriv ed fr om vitamin B 2(also c alled ribofla vin), is one of\nseveral pr osthetic gr oups or c ofactors in the electr on tr ansport chain. A prosthetic gr oup is a nonpr otein molecule r equir ed f or",
+        "section": "6.2",
+        "score": 0.0
+      }
+    ],
+    "question_id": "BIO_CH4_Q1",
+    "correct_sections": "4.3",
+    "figures": "4.14"
+  },
+  {
+    "question": "In Figure 4.1, what structural feature demonstrates the evolutionary distance between bacterial cells and nasal sinus cells?",
+    "retrieved_chunks": [
+      {
+        "text": "supplement antibiotics that ar e no longer eff ectiv e in c ertain situations .\nLINK T O LE ARNING\nWatch geneticist B onnie Bassler discuss her disc overy(http://openstax. org/l/bacteria_talk) of quorum sensing in biofilm\nbacteria in squid.\nEVOLUTION C ONNE CTION\nCellular Communica tion in Y easts\nThe first c ellular f orm of lif e on our planet lik ely c onsisted of single-c elled pr okaryotic org anisms that had limited inter action\nwith each other . While some e xternal signaling oc curs betw een diff erent species of single-c elled org anisms , the majority of\nsignaling within bacteria and y easts c oncerns only other members of the same species . The ev olution of c ellular c ommunic ation\nis an absolute nec essity f or the dev elopment of multic ellular org anisms , and this inno vation is thought to ha ve requir ed\nappr oximately 2 billion y ears to appear in early lif e forms .",
+        "section": "9.7",
+        "score": 0.0
+      },
+      {
+        "text": "Matt Rus sell)\nThe P rokar yotic Cel l\nRecall that pr okaryotes ar e unic ellular org anisms that lack membr ane-bound org anelles or other internal membr ane-bound\nstructur es (Figur e 22.10 ). Their chr omosome\u2014usually single\u2014c onsists of a piec e of cir cular , double-str anded DN A loc ated in an\narea of the c ell c alled the nuc leoid . Most pr okaryotes ha ve a c ell w all outside the plasma membr ane. The cell w allfunctions as a\nprotectiv e layer, and it is r esponsible f or the org anism \u2019s shape . Some bacterial species ha ve a c apsule outside the c ell w all. The\ncapsule enables the org anism to attach to surf aces, protects it fr om deh ydration and attack b y phagocytic c ells, and mak es\npathogens mor e resistant to our immune r esponses . Some species also ha ve flagella (singular , flagellum) used f or loc omotion,\nand pili (singular , pilus) used f or attachment to surf aces including the surf aces of other c ells. Plasmids , which c onsist of e xtra-",
+        "section": "22.2",
+        "score": 0.0
+      },
+      {
+        "text": "a. A virion c ontains DN A and RN A.\nb.Viruses ar e ac ellular .\nc.Viruses r eplic ate outside of the c ell.\nd. Most viruses ar e easily visualized with a light\nmicr oscope.\n5.The vir al ________ pla y(s) a r ole in attaching a virion to\nthe host c ell.\na. core\nb.capsid\nc.envelope\nd. both b and c\n6.Viruses _______.\na. all ha ve a r ound shape\nb.cannot ha ve a long shape\nc.do not maintain an y shape\nd. vary in shape\n7.The obser vation that the bacteria genus Chlam ydia\ncontains species that c an only sur vive as intr acellular\nparasites supports which vir al origin h ypothesis?\na. Progressiv e\nb.Regressiv e\nc.Self-r eplic ating\nd. Virus-first\n8.A scientist disc overs a new virus with a linear , RN A\ngenome surr ounded b y a helic al capsid. The virus is most\nlikely a member of which f amily based on structur e\nclassific ation?\na. Rabies virus\nb.Herpesviruses\nc.Retroviruses\nd. Influenza viruses\n9.Which statement is not true of vir al replic ation?",
+        "section": "21.1",
+        "score": 0.0
+      },
+      {
+        "text": "chromosomes wr apped ar ound histones which ar e\ncontained within the nucleus .Monoc ercomonoides is\nther efore a(n) _________.\na. Bacteria\nb.Archea\nc.Eukaryote\nd. Endosymbiont\n9.Which of the f ollowing obser vations about a bacterium\nwould distinguish it fr om the last euk aryotic c ommon\nancestor?\na. A double-str anded DN A genome\nb.Lack of a membr ane-bound structur e surr ounding\nthe genome\nc.Fatty acids in the lipid bila yer of the plasma\nmembr ane\nd. Enclosed b y a c ell w all\n10.Protists that ha ve a pellicle ar e surr ounded b y\n______________.\na. silic a dio xide\nb.calcium c arbonate\nc.carboh ydrates\nd. proteins606 Chap ter 23 \u2022 Visual C onnec tion Ques tions\nAccess f or free at opens tax.org.\n11.Protists with the c apabilities to perf orm photosynthesis\nand to absorb nutrients fr om dead org anisms ar e called\n______________.\na. photoautotr ophs\nb.mix otrophs\nc.sapr obes\nd. heter otrophs\n12.Which of these loc omotor org ans w ould lik ely be the\nshortest?\na. a flagellum",
+        "section": "23.35",
+        "score": 0.0
+      },
+      {
+        "text": "To see M iescher c onduct his e xperiment that led to his disc overy of DN A and associated pr oteins in the\nnucleus , click thr ough this r eview (http://openstax. org/l/miescher _levene) .\nA half c entur y later , in 1928, B ritish bacteriologist F rederick G riffith r eported the first demonstr ation of\nbacterial transf ormation \u2014a pr ocess in which e xternal DN A is tak en up b y a c ell, ther eby changing its\nmorphology and ph ysiology . Griffith c onducted his e xperiments with Streptoc occus pneumoniae ,a\nbacterium that c auses pneumonia. G riffith w orked with tw o str ains of this bacterium c alled r ough (R) and\nsmooth (S). (The tw o cell types w ere called \u201cr ough \u201d and \u201csmooth \u201d after the appear ance of their c olonies gr own\non a nutrient ag ar plate .)\nThe R str ain is non-pathogenic (does not c ause disease). The S str ain is pathogenic (disease-c ausing), and",
+        "section": "14.1",
+        "score": 0.0
+      }
+    ],
+    "question_id": "BIO_CH4_Q2",
+    "correct_sections": "4.1",
+    "figures": "4.1"
+  },
+  {
+    "question": "Looking at Figure 4.7, why does the larger cube demonstrate a biological limitation for cell growth?",
+    "retrieved_chunks": [
+      {
+        "text": "division t o form tw o genetical ly identical daught er cells, visible her e thr ough scanning electr on\nmicr oscopy (SEM). Aft er four r ounds o f cell division, (b) ther e are 16 c ells, as seen in this SEM\nimag e. Aft er man y rounds o f cell division, the individual de velops int o a c omple x, mul ticellular\norganism, as seen in this (c) matur e sea ur chin. (cr edit a: modification o f work b y Ev elyn Spieg el,\nLouisa Ho ward; cr edit b: modification o f work b y Ev elyn Spieg el, Louisa Ho ward; cr edit c:\nmodification o f work b y Mar co Busdr aghi; scale -bar data fr om Mat t Rus sell)\nINTRODUCTION A human, lik e ev ery sexually r eproducing org anism, be gins lif e as a f ertilized e gg\n(embr yo) or zygote . In our species , billions of c ell divisions subsequently must oc cur in a c ontr olled\nmanner in or der to pr oduc e a c omple x, multic ellular human c omprising trillions of c ells. Thus , the",
+        "section": "10.1",
+        "score": 0.0
+      },
+      {
+        "text": "growth at high speed.\nSecondar y Gr owth\nThe incr ease in stem thickness that r esults fr om sec ondar y gr owth is due to the activity of the later al meristems , which ar e\nlacking in herbac eous plants . Later al meristems include the v ascular c ambium and, in w oody plants , the c ork c ambium (see\nFigur e 30.10 ). The v ascular c ambium is loc ated just outside the primar y xylem and to the interior of the primar y phloem. The\ncells of the v ascular c ambium divide and f orm sec ondar y xylem (tr acheids and v essel elements) to the inside , and sec ondar y\nphloem (siev e elements and c ompanion c ells) to the outside . The thick ening of the stem that oc curs in sec ondar y gr owth is due\nto the f ormation of sec ondar y phloem and sec ondar y xylem b y the v ascular c ambium, plus the action of c ork c ambium, which\nforms the tough outermost la yer of the stem. The c ells of the sec ondar y xylem c ontain lignin, which pr ovides har diness and\nstrength.",
+        "section": "30.1",
+        "score": 0.0
+      },
+      {
+        "text": "tasks . These adaptations lead to dev eloping mor e sophistic ated c ells, which w e call euk aryotic c ells.\nVISU AL C ONNE CTION\nFigur e4.7Notic e that as a c ell incr eases in siz e, its sur face area-to-volume r atio decr eases . When ther e is insufficient sur face area to\nsuppor t a c ell\u2019s incr easing v olume , a c ell wil l either divide or die . The c ell on the left has a v olume o f 1 mm3and a sur face area o f 6 mm2,\nwith a sur face area-to-volume r atio o f 6 to 1; wher eas, the c ell on the right has a v olume o f 8 mm3and a sur face area o f 24 mm2, with a\nsurface area-to-volume r atio o f 3 to 1.\nProkaryotic c ells ar e much smaller than euk aryotic c ells. What adv antages might small c ell size c onfer on a c ell? W hat\nadvantages might large c ell size ha ve?100 Chap ter 4 \u2022 C ell Structure\nAccess f or free at opens tax.org.\n4.3Eukar yotic Cel ls\nBy the end o f this section, y ou wil l be able t o do the f ollowing:\n\u2022Describe the s tructure of euk aryotic cells",
+        "section": "3.31",
+        "score": 0.0
+      },
+      {
+        "text": "eukaryotic c ells, which ha ve dev eloped diff erent structur al adaptations to enhanc e intr acellular tr ansport.4.2 \u2022 P rokaryotic C ells 99\nFigur e4.6This fig ure sho ws relativ e siz es o f micr obes on a log arithmic scale (r ecal l that each unit o f incr ease in a log arithmic scale\nrepresents a 10-f old incr ease in the quantity measur ed).\nSmall size , in gener al, is nec essar y for all c ells, whether pr okaryotic or euk aryotic . Let\u2019s e xamine wh y that is so . First, w e\u2019ll\nconsider the ar ea and v olume of a typic al cell. N ot all c ells ar e spheric al in shape , but most tend to appr oximate a spher e. You\nmay remember fr om y our high school geometr y course that the f ormula f or the surf ace ar ea of a spher e is 4\u03c0 r2, while the\nformula f or its v olume is 4\u03c0 r3/3. Thus , as the r adius of a c ell incr eases , its surf ace ar ea incr eases as the squar e of its r adius , but",
+        "section": "3.31",
+        "score": 0.0
+      },
+      {
+        "text": "tube c ells ha ve disinte grated. Companion c ellsare found alongside the siev e-tube c ells, providing them with metabolic support.\nThe c ompanion c ells c ontain mor e ribosomes and mitochondria than the siev e-tube c ells, which lack some c ellular org anelles .\nGround Tis sue\nGround tissue is mostly made up of par ench yma c ells, but ma y also c ontain c ollench yma and scler ench yma c ells that help\nsupport the stem. The gr ound tissue to wards the interior of the v ascular tissue in a stem or r oot is kno wn as pith , while the la yer\nof tissue betw een the v ascular tissue and the epidermis is kno wn as the corte x.\nGrowth in S tems\nGrowth in plants oc curs as the stems and r oots lengthen. S ome plants , especially those that ar e woody , also incr ease in thickness\nduring their lif e span. The incr ease in length of the shoot and the r oot is r eferred to as primar y gr owth , and is the r esult of c ell",
+        "section": "30.1",
+        "score": 0.0
+      }
+    ],
+    "question_id": "BIO_CH4_Q3",
+    "correct_sections": "4.2",
+    "figures": "4.7"
+  },
+  {
+    "question": "Based on Figure 4.18's protein trafficking pathway, what would happen if the cis face of the Golgi received proteins directly from the plasma membrane instead of the ER?",
+    "retrieved_chunks": [
+      {
+        "text": "Figure 9.5 Gated ion channels form a pore through the plasma membrane that opens when the signaling molecule binds. The open pore\nthen allows ions to flow into or out of the cell.\nG-protein-linked receptors bind a ligand and activate a membrane protein called a G-protein. The activated G-protein then\ninteracts with either an ion channel or an enzyme in the membrane (Figure 9.6 ). All G-protein-linked receptors have seven\ntransmembrane domains, but each receptor has its own specific extracellular domain and G-protein-binding site.\nCell signaling using G-protein-linked receptors occurs as a cyclic series of events. Before the ligand binds, the inactive G-protein\ncan bind to a newly revealed site on the receptor specific for its binding. Once the G-protein binds to the receptor, the resulting\nchange in shape activates the G-protein, which releases guanosine diposphate (GDP) and picks up guanosine 3-phosphate",
+        "section": "9.4",
+        "score": 0.0
+      },
+      {
+        "text": "change in shape activates the G-protein, which releases guanosine diposphate (GDP) and picks up guanosine 3-phosphate\n(GTP). The subunits of the G-protein then split into the \u03b1subunit and the \u03b2\u03b3subunit. One or both of these G-protein fragments\nmay be able to activate other proteins as a result. After awhile, the GTP on the active \u03b1subunit of the G-protein is hydrolyzed to\nGDP and the \u03b2\u03b3subunit is deactivated. The subunits reassociate to form the inactive G-protein and the cycle begins anew.232 Chapter 9 \u2022 Cell Communication\nAccess for free at openstax.org.",
+        "section": "9.4",
+        "score": 0.0
+      },
+      {
+        "text": "Ion channel-linked receptors bind a ligand and open a channel through the membrane that allows specific ions to pass through.\nTo form a channel, this type of cell-surface receptor has an extensive membrane-spanning region. In order to interact with the\ndouble layer of phospholipid fatty acid tails that form the center of the plasma membrane, many of the amino acids in the\nmembrane-spanning region are hydrophobic in nature. Conversely, the amino acids that line the inside of the channel are\nhydrophilic to allow for the passage of water or ions. When a ligand binds to the extracellular region of the channel, there is a\nconformational change in the protein's structure that allows ions such as sodium, calcium, magnesium, and hydrogen to pass\nthrough (Figure 9.5 ).\nFigure 9.5 Gated ion channels form a pore through the plasma membrane that opens when the signaling molecule binds. The open pore\nthen allows ions to flow into or out of the cell.",
+        "section": "9.4",
+        "score": 0.0
+      },
+      {
+        "text": "a. Intracellular\nb.Hormone\nc.Enzyme-link ed\nd. Gated ion channel-link ed\n10.Where do D AG and IP 3originate?\na. They ar e formed b y phosphor ylation of cAMP .\nb.They ar e lig ands e xpressed b y signaling c ells.\nc.They ar e hormones that diffuse thr ough the plasma\nmembr ane to stimulate pr otein pr oduction.\nd. They ar e the clea vage pr oducts of the inositol\nphospholipid, PIP 2.250 Chap ter 9 \u2022 Visual C onnec tion Ques tions\nAccess f or free at opens tax.org.\n11.What pr operty enables the r esidues of the amino acids\nserine , thr eonine , and tyr osine to be phosphor ylated?\na. They ar e polar .\nb.They ar e non-polar .\nc.They c ontain a h ydroxyl gr oup .\nd. They oc cur mor e frequently in the amino acid\nsequenc e of signaling pr oteins .\n12.Histamine binds to the H1 G-pr otein-link ed r eceptor to\ninitiate the itchiness and air way constriction associated\nwith an allergic r esponse . If a mutation in the associated\nG-pr otein \u2019s alpha subunit pr evented the h ydrolysis of",
+        "section": "9.8",
+        "score": 0.0
+      },
+      {
+        "text": "receptors fr om entering the c ell?\na. The molecules bind to the e xtracellular domain.\nb.The molecules ar e hydrophilic and c annot penetr ate\nthe h ydrophobic interior of the plasma membr ane.\nc.The molecules ar e attached to tr ansport pr oteins\nthat deliv er them thr ough the bloodstr eam to target\ncells.\nd. The lig ands ar e able to penetr ate the membr ane and\ndirectly influenc e gene e xpression upon r eceptor\nbinding.\n6.The secr etion of hormones b y the pituitar y gland is an\nexample of _______________.\na. autocrine signaling\nb.paracrine signaling\nc.endocrine signaling\nd. direct signaling acr oss g ap junctions\n7.Why are ion channels nec essar y to tr ansport ions into or\nout of a c ell?\na. Ions ar e too large to diffuse thr ough the membr ane.\nb.Ions ar e charged particles and c annot diffuse\nthrough the h ydrophobic interior of the membr ane.\nc.Ions do not need ion channels to mo ve thr ough the\nmembr ane.\nd. Ions bind to c arrier pr oteins in the bloodstr eam,",
+        "section": "9.8",
+        "score": 0.0
+      }
+    ],
+    "question_id": "BIO_CH4_Q4",
+    "correct_sections": "4.4",
+    "figures": "4.18"
+  },
+  {
+    "question": "In Figure 4.5, how does the nucleoid region's structure reflect its function compared to a eukaryotic nucleus shown in Figure 4.8?",
+    "retrieved_chunks": [
+      {
+        "text": "subs tanc es to ent er and e xit the nucleus .4.3 \u2022 Euk aryotic C ells 103\nThe Nuclear En velope\nThe nuc lear en velope is a double-membr ane structur e that c onstitutes the nucleus' outermost portion ( Figur e 4.11 ). Both the\nnuclear en velope 's inner and outer membr anes ar e phospholipid bila yers.\nThe nuclear en velope is punctuated with por es that c ontr ol the passage of ions , molecules , and RN A betw een the nucleoplasm\nand cytoplasm. The nuc leoplasm is the semi-solid fluid inside the nucleus , wher e we find the chr omatin and the nucleolus .\nChroma tin and Chr omosomes\nTo understand chr omatin, it is helpful to first e xplor echromosomes , structur es within the nucleus that ar e made up of DN A,\nthe her editar y material. Y ou ma y remember that in pr okaryotes , DN A is org anized into a single cir cular chr omosome . In\neukaryotes , chr omosomes ar e linear structur es. Every euk aryotic species has a specific number of chr omosomes in the nucleus",
+        "section": "4.10",
+        "score": 0.0
+      },
+      {
+        "text": "we explor e euk aryotic c ells ( Figur e 4.8 ). Unlik e pr okaryotic c ells,euk aryotic c ellshave: 1) a membr ane-bound nucleus; 2)\nnumer ous membr ane-bound org ane lles such as the endoplasmic r eticulum, G olgi appar atus , chlor oplasts , mitochondria, and\nothers; and 3) sev eral, r od-shaped chr omosomes . Because a membr ane surr ounds euk aryotic c ell\u2019s nucleus , it has a \u201ctrue\nnucleus .\u201d The w ord \u201corg anelle \u201d means \u201clittle org an,\u201d and, as w e alr eady mentioned, org anelles ha ve specialized c ellular functions ,\njust as y our body 's org ans ha ve specialized functions .\nAt this point, it should be clear to y ou that euk aryotic c ells ha ve a mor e comple x structur e than pr okaryotic c ells. Org anelles\nallow diff erent functions to be c ompartmentalized in diff erent ar eas of the c ell. B efore turning to org anelles , let\u2019s first e xamine\ntwo important c omponents of the c ell: the plasma membr ane and the cytoplasm.\nVISU AL C ONNE CTION",
+        "section": "3.31",
+        "score": 0.0
+      },
+      {
+        "text": "calcium, and man y other elements also dissolv e in the cytoplasm. M any metabolic r eactions , including pr otein synthesis , tak e\nplac e in the cytoplasm.\nThe Nucleus\nTypic ally, the nucleus is the most pr ominent org anelle in a c ell (Figur e 4.8 ). The nuc leus (plur al = nuclei) houses the c ell\u2019s DN A\nand dir ects the synthesis of ribosomes and pr oteins . Let\u2019s look at it in mor e detail ( Figur e 4.11 ).\nFigur e4.11 The nucleus s tores chr omatin (DNA plus pr oteins) in a g el-like subs tanc e cal led the nucleoplasm. The nucleolus is a c ondensed\nchromatin r egion wher e ribosome s ynthesis oc curs . We cal l the nucleus ' boundar y the nuclear en velope . It c onsis ts of two phospholipid\nbilayers: an out er and an inner membr ane. The nuclear membr ane is c ontinuous with the endoplasmic r eticulum. Nuclear por es al low\nsubs tanc es to ent er and e xit the nucleus .4.3 \u2022 Euk aryotic C ells 103\nThe Nuclear En velope",
+        "section": "4.10",
+        "score": 0.0
+      },
+      {
+        "text": "(credit b: modification o f work b y NIH; scale -bar data fr om Mat t Rus sell)\nThe Nucleolus\nWe alr eady kno w that the nucleus dir ects the synthesis of ribosomes , but ho w does it do this? S ome chr omosomes ha ve sections\nof DN A that enc ode ribosomal RN A. A darkly staining ar ea within the nucleus c alled the nuc leolus (plur al = nucleoli) aggr egates\nthe ribosomal RN A with associated pr oteins to assemble the ribosomal subunits that ar e then tr ansported out thr ough the por es\nin the nuclear en velope to the cytoplasm.\nRibosomes\nRibosomes are the c ellular structur es responsible f or pr otein synthesis . When w e view them thr ough an electr on micr oscope,\nribosomes appear either as clusters (polyribosomes) or single , tin y dots that float fr eely in the cytoplasm. They ma y be attached\nto the plasma membr ane's cytoplasmic side or the endoplasmic r eticulum 's cytoplasmic side and the nuclear en velope 's outer",
+        "section": "4.10",
+        "score": 0.0
+      },
+      {
+        "text": "chlor oplasts . Lak e\u2019s work is not without sk epticism, and the biologic al scienc e community still debates his ideas . In addition to\nLake\u2019s hypothesis , ther e ar e sev eral other c ompeting theories as to the origin of euk aryotes . How did the euk aryotic nucleus\nevolve? One theor y is that the pr okaryotic c ells pr oduc ed an additional membr ane that surr ounded the bacterial chr omosome .\nSome bacteria ha ve the DN A enclosed b y tw o membr anes; ho wever, ther e is no evidenc e of a nucleolus or nuclear por es. Other\nproteobacteria also ha ve membr ane-bound chr omosomes . If the euk aryotic nucleus ev olved this w ay, we would e xpect one of\nthe tw o types of pr okaryotes to be mor e closely r elated to euk aryotes .\nFigur e20.14 The scientific c ommunity no w widel y accepts the theor y that mit ochondria and chlor oplas ts ar e endos ymbiotic in origin. Mor e",
+        "section": "20.1",
+        "score": 0.0
+      }
+    ],
+    "question_id": "BIO_CH4_Q5",
+    "correct_sections": "[4.2,4.3]",
+    "figures": "[4.5,4.8]"
+  },
+  {
+    "question": "Looking at Figure 4.31's gap junction structure, why would a heart muscle cell require multiple connexons rather than a single large channel?",
+    "retrieved_chunks": [
+      {
+        "text": "donut-lik e configur ation - a c onne xon. W hen the c onne xon's por es (\u201cdoughnut holes\u201d) in adjac ent animal c ells align, a channel\nbetw een the tw o cells f orms . Gap junctions ar e particularly important in c ardiac muscle . The electric al signal f or the muscle to\ncontr act passes efficiently thr ough g ap junctions , allo wing the heart muscle c ells to c ontr act in tandem.\nLINK T O LE ARNING\nTo conduct a virtual micr oscopy lab and r eview the parts of a c ell, w ork thr ough the steps of this inter activ e assignment\n(http://openstax. org/l/micr oscopy_lab) .4.6 \u2022 C onnec tions be tween C ells and C ellular Ac tivities 121\nKEY TERMS\ncell theor y see unified c ell theor y\ncell w all rigid c ell c overing c omprised of v arious molecules\nthat pr otects the c ell, pr ovides structur al support, and\ngives shape to the c ell\ncentr al v acuole large plant c ell org anelle that r egulates the\ncell\u2019s stor age c ompartment, holds w ater , and pla ys a",
+        "section": "4.8",
+        "score": 0.0
+      },
+      {
+        "text": "modification o f work b y Mariana Ruiz Vil lareal)\nGap Junctions\nGap junctions in animal c ells ar e lik e plasmodesmata in plant c ells in that they ar e channels betw een adjac ent c ells that allo w for\ntransporting ions , nutrients , and other substanc es that enable c ells to c ommunic ate ( Figur e 4.31 ). Structur ally, ho wever, gap\njunctions and plasmodesmata diff er.120 Chap ter 4 \u2022 C ell Structure\nAccess f or free at opens tax.org.\nFigur e4.31 A gap junction is a pr otein-lined por e that al lows water and smal l molecules t o pas s betw een adjac ent animal c ells. (credit:\nmodification o f work b y Mariana Ruiz Vil lareal)\nGap junctions dev elop when a set of six pr oteins (c onne xins) in the plasma membr ane arr ange themselv es in an elong ated\ndonut-lik e configur ation - a c onne xon. W hen the c onne xon's por es (\u201cdoughnut holes\u201d) in adjac ent animal c ells align, a channel",
+        "section": "4.8",
+        "score": 0.0
+      },
+      {
+        "text": "________.\na. osteoblast\nb.osteocyte\nc.osteoclast\nd. osteon19.Plasma is the ________.\na. fibers in blood\nb.matrix of blood\nc.cell that phagocytizes bacteria\nd. cell fr agment f ound in the tissue\n20.The type of muscle c ell under v oluntar y contr ol is the\n________.\na. smooth muscle\nb.skeletal muscle\nc.cardiac muscle\nd. visc eral muscle\n21.The part of a neur on that c ontains the nucleus is the\na. cell body\nb.dendrite\nc.axon\nd. glial\n22.Why are inter calated discs essential to the function of\ncardiac muscle?\na. The discs maintain the barriers betw een the c ells.\nb.The discs pass nutrients betw een c ells.\nc.The discs ensur e that all the c ardiac muscle c ells\nbeat as a single unit.\nd. The discs c ontr ol the heart r ate.\n23.When f aced with a sudden dr op in en vironmental\ntemper atur e, an endothermic animal will:\na. experienc e a dr op in its body temper atur e\nb.wait to see if it goes lo wer\nc.incr ease muscle activity to gener ate heat\nd. add fur or f at to incr ease insulation",
+        "section": "33.3",
+        "score": 0.0
+      },
+      {
+        "text": "Access f or free at opens tax.org.\ncontr actile pr otein that inter acts with myosin for muscle c ontr action. S keletal muscle also has multiple nuclei pr esent in a single\ncell.\nSmooth musc le tissue occurs in the w alls of hollo w org ans such as the intestines , stomach, and urinar y bladder , and ar ound\npassages such as the r espir ator y tract and blood v essels . Smooth muscle has no striations , is not under v oluntar y contr ol, has\nonly one nucleus per c ell, is taper ed at both ends , and is c alled in voluntar y muscle .\nCar diac musc le tissue is only f ound in the heart, and c ardiac c ontr actions pump blood thr oughout the body and maintain blood\npressur e. Lik e sk eletal muscle , cardiac muscle is striated, but unlik e sk eletal muscle , cardiac muscle c annot be c onsciously\ncontr olled and is c alled in voluntar y muscle . It has one nucleus per c ell, is br anched, and is distinguished b y the pr esenc e of\ninter calated disks .\nSkeletal Muscle Fiber S tructur e",
+        "section": "38.2",
+        "score": 0.0
+      },
+      {
+        "text": "Car diom yocytes , sho wn in Figur e 40.13 , are distinctiv e muscle c ells that ar e striated lik e sk eletal muscle but pump rh ythmic ally\nand in voluntarily lik e smooth muscle; they ar e connected b y inter calated disks e xclusiv e to c ardiac muscle . They ar e self-\nstimulated f or a period of time and isolated c ardiom yocytes will beat if giv en the c orrect balanc e of nutrients and electr olytes .40.3 \u2022 Mammalian Hear t and Blood V essels 1161\nFigur e40.13 Cardiom yocyt es ar e striat ed muscle c ells found in car diac tis sue. (credit: modification o f work b y Dr. S. Gir od, Ant on Beck er;\nscale -bar data fr om Mat t Rus sell)\nThe autonomous beating of c ardiac muscle c ells is r egulated b y the heart\u2019s internal pac emak er that uses electric al signals to time\nthe beating of the heart. The electric al signals and mechanic al actions , illustr ated in Figur e 40.14 , are intimately intertwined.",
+        "section": "40.1",
+        "score": 0.0
+      }
+    ],
+    "question_id": "BIO_CH4_Q6",
+    "correct_sections": "4.6",
+    "figures": "4.31"
+  },
+  {
+    "question": "Based on Figure 4.28's plasmodesmata structure, what advantage does this provide over the gap junctions shown in Figure 4.31?",
+    "retrieved_chunks": [
+      {
+        "text": "modification o f work b y Mariana Ruiz Vil lareal)\nGap Junctions\nGap junctions in animal c ells ar e lik e plasmodesmata in plant c ells in that they ar e channels betw een adjac ent c ells that allo w for\ntransporting ions , nutrients , and other substanc es that enable c ells to c ommunic ate ( Figur e 4.31 ). Structur ally, ho wever, gap\njunctions and plasmodesmata diff er.120 Chap ter 4 \u2022 C ell Structure\nAccess f or free at opens tax.org.\nFigur e4.31 A gap junction is a pr otein-lined por e that al lows water and smal l molecules t o pas s betw een adjac ent animal c ells. (credit:\nmodification o f work b y Mariana Ruiz Vil lareal)\nGap junctions dev elop when a set of six pr oteins (c onne xins) in the plasma membr ane arr ange themselv es in an elong ated\ndonut-lik e configur ation - a c onne xon. W hen the c onne xon's por es (\u201cdoughnut holes\u201d) in adjac ent animal c ells align, a channel",
+        "section": "4.8",
+        "score": 0.0
+      },
+      {
+        "text": "the plant ( Figur e 4.28 ).118 Chap ter 4 \u2022 C ell Structure\nAccess f or free at opens tax.org.\nFigur e4.28 A plasmodesma is a channel betw een tw o adjac ent plant c ells' cell walls. Plasmodesmata al low mat erials t o pas s from one\nplant c ell's cyt oplasm t o an adjac ent c ell's cyt oplasm.\nTight Junctions\nAtight junction is a w atertight seal betw een tw o adjac ent animal c ells ( Figur e 4.29 ). Proteins (pr edominantly tw o pr oteins c alled\nclaudins and oc cludins) tightly hold the c ells ag ainst each other .\nFigur e4.29 Tight junctions f orm w atertight c onnections betw een adjac ent animal c ells. Proteins cr eate tight junction adher ence. (credit:\nmodification o f work b y Mariana Ruiz Vil lareal)\nThis tight adher ence pr events materials fr om leaking betw een the c ells; tight junctions ar e typic ally f ound in epithelial tissues\nthat line internal org ans and c avities , and c omprise most of the skin. F or e xample , the tight junctions of the epithelial c ells",
+        "section": "4.8",
+        "score": 0.0
+      },
+      {
+        "text": "development, this process of stimulating a group of neighboring cells may help to direct the differentiation of identical cells into\nthe same cell type, thus ensuring the proper developmental outcome.\nDirect Signaling Across Gap Junctions\nGap junctions in animals and plasmodesmata in plants are connections between the plasma membranes of neighboring cells.\nThese fluid-filled channels allow small signaling molecules, called intracellular mediators, to diffuse between the two cells.\nSmall molecules or ions, such as calcium ions (Ca2+), are able to move between cells, but large molecules like proteins and DNA\ncannot fit through the channels. The specificity of the channels ensures that the cells remain independent but can quickly and\neasily transmit signals. The transfer of signaling molecules communicates the current state of the cell that is directly next to the",
+        "section": "8.5",
+        "score": 0.0
+      },
+      {
+        "text": "follows function? W hat ar e at least tw o examples of this\nconcept?\n36.In your opinion, is the nuclear membr ane part of the\nendomembr ane system? W hy or wh y not? Def end y our\nansw er.\n37.What ar e the similarities and diff erences betw een the\nstructur es of c entrioles and flagella?\n38.How do cilia and flagella diff er?\n39.Describe ho w micr ofilaments and micr otubules ar e\ninvolved in the phagocytosis and destruction of a\npathogen b y a macr ophage .\n40.Compar e and c ontr ast the boundaries that plant,\nanimal, and bacteria c ells use to separ ate themselv es\nfrom their surr ounding en vironment.\n41.How does the structur e of a plasmodesma diff er fr om\nthat of a g ap junction?\n42.Explain ho w the e xtracellular matrix functions .\n43.Pathogenic E. c olihave recently been sho wn to de grade\ntight junction pr oteins during inf ection. H ow w ould\nthis pr ovide an adv antage to the bacteria?126 Chap ter 4 \u2022 Critical Thinking Ques tions\nAccess f or free at opens tax.org.",
+        "section": "4.8",
+        "score": 0.0
+      },
+      {
+        "text": "plant and animal and fung al cells c ommunic ate. Plasmodesmata ar e junctions betw een plant c ells; wher eas, animal c ell c ontacts\ninclude tight junctions , gap junctions , and desmosomes .\nPlasmodesma ta\nIn gener al, long str etches of the plasma membr anes of neighboring plant c ells c annot touch one another bec ause the c ell w all\nthat surr ounds each c ell separ ates them ( Figur e 4.8 ). H ow then, c an a plant tr ansf er w ater and other soil nutrients fr om its\nroots , thr ough its stems , and to its lea ves? Such tr ansport uses the v ascular tissues (xylem and phloem) primarily . Ther e also\nexist structur al modific ations , which w e callplasmodesmata (singular = plasmodesma). Numer ous channels that pass betw een\nadjac ent plant c ells' c ell w alls c onnect their cytoplasm, and enable tr ansport of materials fr om c ell to c ell, and thus thr oughout\nthe plant ( Figur e 4.28 ).118 Chap ter 4 \u2022 C ell Structure\nAccess f or free at opens tax.org.",
+        "section": "4.8",
+        "score": 0.0
+      }
+    ],
+    "question_id": "BIO_CH4_Q7",
+    "correct_sections": "4.6",
+    "figures": "[4.28,4.31]"
+  },
+  {
+    "question": "In Figure 4.10, how does the structural arrangement of microvilli reflect their absorption function?",
+    "retrieved_chunks": [
+      {
+        "text": "digestiv e tract.\nVISU AL C ONNE CTION QUE STIONS\n1.Figur e 34.11 Which of the f ollowing statements about the\ndigestiv e system is f alse?\na. Chyme is a mixtur e of f ood and digestiv e juic es that\nis pr oduc ed in the stomach.\nb.Food enters the large intestine bef ore the small\nintestine .\nc.In the small intestine , chyme mix es with bile , which\nemulsifies f ats.\nd. The stomach is separ ated fr om the small intestine b y\nthe p yloric sphincter .2.Figur e 34.12 Which of the f ollowing statements about the\nsmall intestine is f alse?\na. Absorptiv e cells that line the small intestine ha ve\nmicr ovilli, small pr ojections that incr ease surf ace\narea and aid in the absorption of f ood.\nb.The inside of the small intestine has man y folds ,\ncalled villi.\nc.Microvilli ar e lined with blood v essels as w ell as\nlymphatic v essels .\nd. The inside of the small intestine is c alled the lumen.Chap ter 34 \u2022 Chap ter Summar y973",
+        "section": "34.1",
+        "score": 0.0
+      },
+      {
+        "text": "diameter smaller than 0.5 mm ar e the respir ator y br onc hioles . They lack c artilage and ther efore rely on inhaled air to support\ntheir shape . As the passagew ays decr ease in diameter , the r elativ e amount of smooth muscle incr eases .\nThe terminal br onc hioles subdivide into micr oscopic br anches c alled r espir ator y br onchioles . The r espir ator y br onchioles\nsubdivide into sev eral alv eolar ducts . Numer ous alv eoli and alv eolar sacs surr ound the alv eolar ducts . The alv eolar sacs r esemble\nbunches of gr apes tether ed to the end of the br onchioles ( Figur e 39.10 ). In the acinar r egion, the alveolar ducts are attached to\nthe end of each br onchiole . At the end of each duct ar e appr oximately 100 alveolar sacs , each c ontaining 20 to 30 alveoli that ar e\n200 to 300 micr ons in diameter . Gas e xchange oc curs only in alv eoli. A lveoli ar e made of thin-w alled par ench ymal c ells, typic ally",
+        "section": "39.1",
+        "score": 0.0
+      },
+      {
+        "text": "in a single la yer representing a simple epithelia in glandular tissues thr oughout the body wher e they pr epar e and secr ete\nglandular material. They ar e also f ound in the w alls of tubules and in the ducts of the kidney and liv er.\nFigur e33.8 Simple cuboidal epithelial c ells line tubules in the mammalian kidne y, wher e the y are involved in fil tering the blood.\nColumnar Epithelia\nColumnar epithe lial cells ar e taller than they ar e wide: they r esemble a stack of c olumns in an epithelial la yer, and ar e most\ncommonly f ound in a single-la yer arr angement. The nuclei of c olumnar epithelial c ells in the digestiv e tract appear to be lined\nup at the base of the c ells, as illustr ated in Figur e 33.9 . These c ells absorb material fr om the lumen of the digestiv e tract and\nprepar e it f or entr y into the body thr ough the cir culator y and lymphatic systems .928 Chap ter 33 \u2022 The Animal Body: Basic F orm and F unction\nAccess f or free at opens tax.org.",
+        "section": "33.2",
+        "score": 0.0
+      },
+      {
+        "text": "the c oncentr ation is equal acr oss a spac e. You ar e familiar with diffusion of substanc es thr ough the air . For e xample , think about\nsomeone opening a bottle of ammonia in a r oom filled with people . The ammonia g as is at its highest c oncentr ation in the\nbottle . Its lo west c oncentr ation is at the r oom 's edges . The ammonia v apor will diffuse , or spr ead a way, from the bottle , and\ngradually , incr easingly mor e people will smell the ammonia as it spr eads . Materials mo ve within the c ell\u2019s cytosol b y diffusion,\nand c ertain materials mo ve thr ough the plasma membr ane b y diffusion ( Figur e 5.8 ). Diffusion e xpends no energy . On the\ncontr ary, concentr ation gr adients ar e a f orm of potential energy , which dissipates as the gr adient is eliminated.\nFigur e5.8Diffusion thr ough a permeable membr ane mo ves a subs tanc e from a high c oncentr ation ar ea (e xtracellular fluid, in this case)",
+        "section": "4.8",
+        "score": 0.0
+      },
+      {
+        "text": "are lined with ectoderm. This structur e of the phar ynx mak es anemones bilater ally symmetric al. A ciliated gr oove called a\nsiphonoglyph is f ound on tw o opposite sides of the phar ynx and dir ects w ater into it. The phar ynx is the muscular part of the\ndigestiv e system that ser ves to ingest as w ell as e gest f ood, and ma y extend f or up to tw o-thir ds the length of the body bef ore\nopening into the g astr ovascular c avity. This c avity is divided into sev eral chambers b y longitudinal septa called mesenteries .\nEach mesenter y consists of a f old of g astr odermal tissue with a la yer of mesoglea betw een the sheets of g astr odermis .\nMesenteries do not divide the g astr ovascular c avity c ompletely , and the smaller c avities c oalesc e at the phar yngeal opening. The\nadaptiv e benefit of the mesenteries appears to be an incr ease in surf ace ar ea for absorption of nutrients and g as e xchange , as",
+        "section": "28.1",
+        "score": 0.0
+      }
+    ],
+    "question_id": "BIO_CH4_Q8",
+    "correct_sections": "4.3",
+    "figures": "4.1"
+  },
+  {
+    "question": "Looking at Figure 4.22's cytoskeleton arrangement, why are intermediate filaments shown throughout the cell while microfilaments concentrate at the edges?",
+    "retrieved_chunks": [
+      {
+        "text": "and then mo ves on to the other .\nClick to view c ontent (https://www .openstax. org/l/chasing_ bcteria)\nIntermedia te Filaments\nSeveral str ands of fibr ous pr oteins that ar e wound together c omprise intermediate filaments ( Figur e 4.24 ). Cytosk eleton\nelements get their name fr om the f act that their diameter , 8 to 10 nm, is betw een those of micr ofilaments and micr otubules .\nFigur e4.24 Intermediat e filaments c onsis t of several int ertwined s trands o f fibr ous pr oteins .\nIntermediate filaments have no r ole in c ell mo vement. Their function is pur ely structur al. They bear tension, thus maintaining\nthe c ell's shape , and anchor the nucleus and other org anelles in plac e.Figur e 4.22 shows ho w intermediate filaments cr eate a\nsupportiv e scaffolding inside the c ell.114 Chap ter 4 \u2022 C ell Structure\nAccess f or free at opens tax.org.\nThe intermediate filaments ar e the most div erse gr oup of cytosk eletal elements . Several fibr ous pr otein types ar e in the",
+        "section": "4.8",
+        "score": 0.0
+      },
+      {
+        "text": "Access f or free at opens tax.org.\nThe intermediate filaments ar e the most div erse gr oup of cytosk eletal elements . Several fibr ous pr otein types ar e in the\nintermediate filaments . You ar e pr obably most f amiliar with k eratin, the fibr ous pr otein that str engthens y our hair , nails , and\nthe skin 's epidermis .\nMicr otubules\nAs their name implies , micr otubules ar e small hollo w tubes . Polymerized dimers of \u03b1 -tubulin and \u03b2 -tubulin, tw o globular\nproteins , comprise the micr otubule 's walls ( Figur e 4.25 ). W ith a diameter of about 25 nm, micr otubules are cytosk eletons'\nwidest c omponents . They help the c ell r esist c ompr ession, pr ovide a tr ack along which v esicles mo ve thr ough the c ell, and pull\nreplic ated chr omosomes to opposite ends of a dividing c ell. Lik e micr ofilaments , micr otubules c an disassemble and r eform\nquickly .",
+        "section": "4.8",
+        "score": 0.0
+      },
+      {
+        "text": "the c ell's int erior wher e the y maintain their shape b y resisting c ompr essive forces. Ther e are int ermediat e filaments thr oughout the c ell\nthat hold or ganel les in plac e.\nMicr ofilaments\nOf the thr ee types of pr otein fibers in the cytosk eleton, micr ofilaments are the narr owest. They function in c ellular mo vement,\nhave a diameter of about 7 nm, and ar e comprised of tw o globular pr otein intertwined str ands , which w e call actin ( Figur e 4.23 ).\nFor this r eason, w e also c all micr ofilaments actin filaments .4.5 \u2022 The C ytoskeleton 113\nFigur e4.23 Two int ertwined actin s trands c omprise micr ofilaments .\nATP po wers actin to assemble its filamentous f orm, which ser ves as a tr ack f or the mo vement of a motor pr otein w e call m yosin.\nThis enables actin to eng age in c ellular ev ents r equiring motion, such as c ell division in euk aryotic c ells and cytoplasmic",
+        "section": "4.8",
+        "score": 0.0
+      },
+      {
+        "text": "from the plasma membr ane in large numbers and\nfunctions to mo ve an entir e cell or mo ve substanc es along\nthe c ell's outer surf ace\ncytoplasm entir e region betw een the plasma membr ane\nand the nuclear en velope , consisting of org anelles\nsuspended in the gel-lik e cytosol, the cytosk eleton, and\nvarious chemic als\ncytosk eleton protein fiber netw ork that c ollectiv ely\nmaintains the c ell's shape , secur es some org anelles in\nspecific positions , allo ws cytoplasm and v esicles to mo ve\nwithin the c ell, and enables unic ellular org anisms to\nmove independently\ncytosol the cytoplasm 's gel-lik e material in which c ell\nstructur es ar e suspended\ndesmosome link ages betw een adjac ent epithelial c ells that\nform when c adherins in the plasma membr ane attach to\nintermediate filaments\nelectr on micr osc ope an instrument that magnifies an\nobject using an electr on beam that passes and bends\nthrough a lens system to visualize a specimen",
+        "section": "4.8",
+        "score": 0.0
+      },
+      {
+        "text": "the endoplasmic r eticulum18.Congenital disor ders of gly cosylation ar e a gr owing class\nof rare diseases . Which org anelle w ould be most\ncommonly in volved in the gly coprotein disor der portion\nof the gr oup?\na. RER\nb.ribosomes\nc.endosomes\nd. Golgi appar atus\n19.Which of the f ollowing ha ve the ability to disassemble\nand r eform quickly?\na. micr ofilaments and intermediate filaments\nb.micr ofilaments and micr otubules\nc.intermediate filaments and micr otubules\nd. only intermediate filaments\n20.Which of the f ollowing do not pla y a r ole in intr acellular\nmovement?\na. micr ofilaments and intermediate filaments\nb.micr ofilaments and micr otubules\nc.intermediate filaments and micr otubules\nd. only intermediate filaments\n21.In humans , _____ ar e used to mo ve a c ell within its\nenvironment while _____ ar e used to mo ve the\nenvironment r elativ e to the c ell.\na. cilia, pseudopodia\nb.flagella; cilia\nc.micr otubules; flagella\nd. micr ofilaments; micr otubules",
+        "section": "4.8",
+        "score": 0.0
+      }
+    ],
+    "question_id": "BIO_CH4_Q9",
+    "correct_sections": "4.5",
+    "figures": "4.22"
+  },
+  {
+    "question": "Based on Figure 4.19's RER structure, how does its appearance reflect its protein synthesis role compared to smooth ER?",
+    "retrieved_chunks": [
+      {
+        "text": "If a peripher al membr ane pr otein w ere synthesized in the lumen (inside) of the ER, w ould it end up on the inside or outside of\nthe plasma membr ane?\nThe Endoplasmic R eticulum\nThe endoplasmic r eticulum (ER) (Figur e 4.18 ) is a series of inter connected membr anous sacs and tubules that c ollectiv ely\nmodifies pr oteins and synthesizes lipids . However, these tw o functions tak e plac e in separ ate ar eas of the ER: the r ough ER and\nthe smooth ER, r espectiv ely.\nWe call the ER tubules' hollo w portion the lumen or cisternal spac e. The ER 's membr ane, which is a phospholipid bila yer\nembedded with pr oteins , is c ontinuous with the nuclear en velope .\nRough ER\nScientists ha ve named the rough endoplasmic r eticulum (RER) as such bec ause the ribosomes attached to its cytoplasmic4.4 \u2022 The Endomembr ane S ystem and P roteins 109\nsurf ace giv e it a studded appear ance when viewing it thr ough an electr on micr oscope ( Figur e 4.19 ).",
+        "section": "4.8",
+        "score": 0.0
+      },
+      {
+        "text": "If the phospholipids or modified pr oteins ar e not destined to sta y in the RER, they will r each their destinations via tr ansport\nvesicles that bud fr om the RER \u2019s membr ane ( Figur e 4.18 ).\nSince the RER is eng aged in modifying pr oteins (such as enzymes , for e xample) that secr ete fr om the c ell, y ou w ould be c orrect\nin assuming that the RER is abundant in c ells that secr ete pr oteins . This is the c ase with liv er cells, for e xample .\nSmoo th ER\nThe smooth endoplasmic r eticulum (SER) is continuous with the RER but has f ew or no ribosomes on its cytoplasmic surf ace\n(Figur e 4.18 ). SER functions include synthesis of c arboh ydrates , lipids , and ster oid hormones; deto xific ation of medic ations and\npoisons; and storing c alcium ions .\nIn muscle c ells, a specialized SER, the sar coplasmic r eticulum, is r esponsible f or storing c alcium ions that ar e needed to trigger\nthe muscle c ells' c oordinated c ontr actions .\nLINK T O LE ARNING",
+        "section": "4.8",
+        "score": 0.0
+      },
+      {
+        "text": "Access f or free at opens tax.org.\nVISU AL C ONNE CTION\nFigur e4.18 Membr ane and secr etory proteins ar e synthesiz ed in the r ough endoplasmic r eticulum (RER). The RER also sometimes\nmodifies pr oteins . In this il lustration, an at tachment o f a (purple) carboh ydrate modifies a ( green) int egral membr ane pr otein in the ER.\nVesicles with the int egral pr otein bud fr om the ER and fuse with the Golgi appar atus ' cis fac e. As the pr otein pas ses along the Golgi\u2019 s\ncisternae , the addition o f mor e carboh ydrates fur ther modifies it. Aft er its s ynthesis is c omplet e, it e xits as an int egral membr ane pr otein o f\nthe v esicle that buds fr om the Golgi\u2019 strans face. When the v esicle fuses with the c ell membr ane, the pr otein bec omes an int egral por tion o f\nthat c ell membr ane. (credit: modification o f work b y Magnus Mansk e)\nIf a peripher al membr ane pr otein w ere synthesized in the lumen (inside) of the ER, w ould it end up on the inside or outside of",
+        "section": "4.8",
+        "score": 0.0
+      },
+      {
+        "text": "The RER modifies pr oteins and synthesizes phospholipids in\ncell membr anes . The SER synthesizes c arboh ydrates , lipids ,\nand ster oid hormones; eng ages in the deto xific ation of\nmedic ations and poisons; and stor es calcium ions . Sorting,\ntagging, pack aging, and distributing lipids and pr oteins tak e\nplac e in the G olgi appar atus . Budding RER and G olgi\nmembr anes cr eate lysosomes . Lysosomes digest\nmacr omolecules , recycle w orn-out org anelles , and destr oy\npathogens .\n4.5The C ytoskeleton\nThe cytosk eleton has thr ee diff erent pr otein element types .\nFrom narr owest to widest, they ar e the micr ofilaments (actin\nfilaments), intermediate filaments , and micr otubules .Chap ter 4 \u2022 Chap ter Summar y123\nBiologists often associate micr ofilaments with m yosin. They\nprovide rigidity and shape to the c ell and f acilitate c ellular\nmovements . Intermediate filaments bear tension and anchor\nthe nucleus and other org anelles in plac e. Microtubules help",
+        "section": "4.8",
+        "score": 0.0
+      },
+      {
+        "text": "protein 's hydrophilic r egion or r egions pr otruding fr om the membr ane and in c ontact with the cytosol or e xtracellular fluid.\nFigur e5.5Integral membr ane pr oteins ma y ha ve one or mor e alpha -helic es that span the membr ane (e xamples 1 and 2), or the y ma y ha ve\nbeta -sheets that span the membr ane (e xample 3). (cr edit: \u201cF oobar \u201d/Wikimedia Commons)5.1 \u2022 C omponents and S tructure 131\nPeripher al pr oteins are on the membr anes' e xterior and interior surf aces, attached either to inte gral pr oteins or to\nphospholipids . Peripher al pr oteins , along with inte gral pr oteins , ma y ser ve as enzymes , as structur al attachments f or the\ncytosk eleton 's fibers , or as part of the c ell\u2019s r ecognition sites . Scientists sometimes r efer to these as \u201cc ell-specific\u201d pr oteins . The\nbody r ecognizes its o wn pr oteins and attacks f oreign pr oteins associated with in vasiv e pathogens .\nCarboh ydrates",
+        "section": "4.8",
+        "score": 0.0
+      }
+    ],
+    "question_id": "BIO_CH4_Q10",
+    "correct_sections": "4.4",
+    "figures": "4.19"
+  },
+  {
+    "question": "In Figure 7.10, what indicates that Complex III contributes to the proton gradient across the membrane?",
+    "retrieved_chunks": [
+      {
+        "text": "Ion channel-linked receptors bind a ligand and open a channel through the membrane that allows specific ions to pass through.\nTo form a channel, this type of cell-surface receptor has an extensive membrane-spanning region. In order to interact with the\ndouble layer of phospholipid fatty acid tails that form the center of the plasma membrane, many of the amino acids in the\nmembrane-spanning region are hydrophobic in nature. Conversely, the amino acids that line the inside of the channel are\nhydrophilic to allow for the passage of water or ions. When a ligand binds to the extracellular region of the channel, there is a\nconformational change in the protein's structure that allows ions such as sodium, calcium, magnesium, and hydrogen to pass\nthrough (Figure 9.5 ).\nFigure 9.5 Gated ion channels form a pore through the plasma membrane that opens when the signaling molecule binds. The open pore\nthen allows ions to flow into or out of the cell.",
+        "section": "9.4",
+        "score": 0.0
+      },
+      {
+        "text": "passage . An example of this oc curs in the kidney , wher e ther e ar e both channel f orms in diff erent parts of the r enal tubules . Cells\ninvolved in tr ansmitting electric al impulses , such as ner ve and muscle c ells, have gated channels f or sodium, potassium, and\ncalcium in their membr anes . Opening and closing these channels changes the r elativ e concentr ations on opposing sides of the\nmembr ane of these ions , resulting in f acilitating electric al tr ansmission along membr anes (in the c ase of ner ve cells) or in\nmuscle c ontr action (in the c ase of muscle c ells).\nCarrier P roteins\nAnother type of pr otein embedded in the plasma membr ane is a carrier pr otein . This aptly named pr otein binds a substanc e\nand, thus triggers a change of its o wn shape , mo ving the bound molecule fr om the c ell's outside to its interior ( Figur e 5.10 ).",
+        "section": "4.8",
+        "score": 0.0
+      },
+      {
+        "text": "Figure 9.5 Gated ion channels form a pore through the plasma membrane that opens when the signaling molecule binds. The open pore\nthen allows ions to flow into or out of the cell.\nG-protein-linked receptors bind a ligand and activate a membrane protein called a G-protein. The activated G-protein then\ninteracts with either an ion channel or an enzyme in the membrane (Figure 9.6 ). All G-protein-linked receptors have seven\ntransmembrane domains, but each receptor has its own specific extracellular domain and G-protein-binding site.\nCell signaling using G-protein-linked receptors occurs as a cyclic series of events. Before the ligand binds, the inactive G-protein\ncan bind to a newly revealed site on the receptor specific for its binding. Once the G-protein binds to the receptor, the resulting\nchange in shape activates the G-protein, which releases guanosine diposphate (GDP) and picks up guanosine 3-phosphate",
+        "section": "9.4",
+        "score": 0.0
+      },
+      {
+        "text": "must r each ________.\na. hyperpolarization\nb.the thr eshold of e xcitation\nc.the r efractor y period\nd. inhibitor y postsynaptic potential\n9.After an action potential, the opening of additional\nvoltage-g ated ________ channels and the inactiv ation of\nsodium channels , cause the membr ane to r eturn to its\nresting membr ane potential.\na. sodium\nb.potassium\nc.calcium\nd. chloride\n10.What is the term f or pr otein channels that c onnect tw o\nneur ons at an electric al synapse?\na. synaptic v esicles\nb.voltage-g ated ion channels\nc.gap junction pr otein\nd. sodium-potassium e xchange pumps\n11.Which of the f ollowing molecules is not involved in the\nmaintenanc e of the r esting membr ane potential?\na. potassium c ations\nb.ATP\nc.voltage-g ated ion channels\nd. calcium c ations\n12.The ________ lobe c ontains the visual c orte x.\na. frontal\nb.parietal\nc.tempor al\nd. occipital\n13.The ________ c onnects the tw o cerebral hemispher es.\na. limbic system\nb.corpus c allosum\nc.cerebellum\nd. pituitar y",
+        "section": "35.2",
+        "score": 0.0
+      },
+      {
+        "text": "receptors fr om entering the c ell?\na. The molecules bind to the e xtracellular domain.\nb.The molecules ar e hydrophilic and c annot penetr ate\nthe h ydrophobic interior of the plasma membr ane.\nc.The molecules ar e attached to tr ansport pr oteins\nthat deliv er them thr ough the bloodstr eam to target\ncells.\nd. The lig ands ar e able to penetr ate the membr ane and\ndirectly influenc e gene e xpression upon r eceptor\nbinding.\n6.The secr etion of hormones b y the pituitar y gland is an\nexample of _______________.\na. autocrine signaling\nb.paracrine signaling\nc.endocrine signaling\nd. direct signaling acr oss g ap junctions\n7.Why are ion channels nec essar y to tr ansport ions into or\nout of a c ell?\na. Ions ar e too large to diffuse thr ough the membr ane.\nb.Ions ar e charged particles and c annot diffuse\nthrough the h ydrophobic interior of the membr ane.\nc.Ions do not need ion channels to mo ve thr ough the\nmembr ane.\nd. Ions bind to c arrier pr oteins in the bloodstr eam,",
+        "section": "9.8",
+        "score": 0.0
+      }
+    ],
+    "question_id": "BIO_CH7_Q1",
+    "correct_sections": "7.4",
+    "figures": "7.10"
+  },
+  {
+    "question": "Based on Figure 7.12, what is the relationship between the citric acid cycle and electron transport chain in terms of their physical organization in the mitochondria?",
+    "retrieved_chunks": [
+      {
+        "text": "the steps in the path way in the 1930s in pigeon flight muscles .\nCitric Acid Cy cle\nLike the c onversion of p yruv ate to ac etyl C oA, the citric acid cy cle tak es plac e in the matrix of mitochondria. A lmost all of the\nenzymes of the citric acid cy cle ar e soluble , with the single e xception of the enzyme suc cinate deh ydrogenase , which is\nembedded in the inner membr ane of the mitochondrion. U nlik e gly colysis , the citric acid cy cle is a closed loop: the last part of\nthe path way regener ates the c ompound used in the first step . The eight steps of the cy cle ar e a series of r edox, deh ydration,\nhydration, and dec arbo xylation r eactions that pr oduc e tw o carbon dio xide molecules , one GTP/A TP, and the r educ ed c arriers\nNADH and F ADH 2(Figur e 7.9 ).This is c onsider ed an aer obic path way bec ause the N ADH and F ADH 2produc ed must tr ansf er",
+        "section": "6.2",
+        "score": 0.0
+      },
+      {
+        "text": "reducing it to F ADH 2. (Note: the energy c ontained in the electr ons of these h ydrogens is insufficient to r educ e NAD+but\nadequate to r educ e FAD.) Unlik e NADH , this c arrier r emains attached to the enzyme and tr ansf ers the electr ons to the electr on\ntransport chain dir ectly . This pr ocess is made possible b y the loc alization of the enzyme c atalyzing this step inside the inner\nmembr ane of the mitochondrion.\nStep 7 . Water is added b y hydrolysis to fumar ate during step sev en, and malate is pr oduc ed. The last step in the citric acid cy cle\nregener ates o xaloac etate b y oxidizing malate . Another molecule of N ADH is then pr oduc ed in the pr ocess.\nLINK T O LE ARNING\nView an animation of the citric acid cy clehere(http://openstax. org/l/kr ebs_cycle) .\nProducts o f the Citric Acid Cy cle\nTwo carbon atoms c ome into the citric acid cy cle fr om each ac etyl gr oup , representing f our out of the six c arbons of one gluc ose",
+        "section": "6.2",
+        "score": 0.0
+      },
+      {
+        "text": "transport chain is pr esent with multiple c opies in the inner mitochondrial membr ane of euk aryotes and within the plasma\nmembr ane of pr okaryotes .\nFigur e7.10 The electr on tr anspor t chain is a series o f electr on tr anspor ters embedded in the inner mit ochondrial membr ane that shut tles\nelectr ons fr om NADH and F ADH 2to molecular o xygen. In the pr ocess, protons ar e pumped fr om the mit ochondrial matrix t o the\nintermembr ane spac e, and o xygen is r educ ed to form w ater.\nComple x I\nFirst, tw o electr ons ar e carried to the first c omple x via N ADH . This c omple x, labeled I, is c omposed of fla vin mononucleotide\n(FMN) and an ir on-sulfur (F e-S)-c ontaining pr otein. FMN , which is deriv ed fr om vitamin B 2(also c alled ribofla vin), is one of\nseveral pr osthetic gr oups or c ofactors in the electr on tr ansport chain. A prosthetic gr oup is a nonpr otein molecule r equir ed f or",
+        "section": "6.2",
+        "score": 0.0
+      },
+      {
+        "text": "citric acid cy cle.\nd. They ar e converted to N ADP .\n9.GTP or A TP is pr oduc ed during the c onversion of\n________.\na. isocitr ate into \u03b1 -ketoglutar ate\nb.succinyl C oA into suc cinate\nc.fumar ate into malate\nd. malate into o xaloac etate\n10.How man y NADH molecules ar e pr oduc ed on each turn\nof the citric acid cy cle?\na. one\nb.two\nc.three\nd. four11.What c ompound r eceives electr ons fr om N ADH?\na. FMN\nb.ubiquinone\nc.cytochr ome c 1\nd. oxygen\n12.Chemiosmosis in volves ________.\na. the mo vement of electr ons acr oss the c ell\nmembr ane\nb.the mo vement of h ydrogen atoms acr oss a\nmitochondrial membr ane\nc.the mo vement of h ydrogen ions acr oss a\nmitochondrial membr ane\nd. the mo vement of gluc ose thr ough the c ell\nmembr ane\n13.Which of the f ollowing f ermentation methods c an oc cur\nin animal sk eletal muscles?\na. lactic acid f ermentation\nb.alcohol f ermentation\nc.mix ed acid f ermentation\nd. propionic f ermentation",
+        "section": "7.12",
+        "score": 0.0
+      },
+      {
+        "text": "The citric acid cy cle is a series of r edox and dec arbo xylation\nreactions that r emo ves high-energy electr ons and c arbon\ndioxide . The electr ons, tempor arily stor ed in molecules of\nNADH and F ADH 2, are used to gener ate A TP in a subsequent\npath way. One molecule of either GTP or A TP is pr oduc ed b y\nsubstr ate-lev el phosphor ylation on each turn of the cy cle.\nTher e is no c omparison of the cy clic path way with a linear\none.\n7.4Oxidativ e Phosphor ylation\nThe electr on tr ansport chain is the portion of aer obic\nrespir ation that uses fr ee o xygen as the final electr on\nacceptor of the electr ons r emo ved fr om the intermediate\ncompounds in gluc ose c atabolism. The electr on tr ansport\nchain is c omposed of f our large , multipr otein c omple xes\nembedded in the inner mitochondrial membr ane and tw o\nsmall diffusible electr on c arriers shuttling electr ons betw een\nthem. The electr ons ar e passed thr ough a series of r edox",
+        "section": "7.12",
+        "score": 0.0
+      }
+    ],
+    "question_id": "BIO_CH7_Q2",
+    "correct_sections": "7.4",
+    "figures": "7.12"
+  },
+  {
+    "question": "Looking at the structure of ATP synthase in Figure 7.11, how does its physical arrangement in the membrane support its function?",
+    "retrieved_chunks": [
+      {
+        "text": "ATP molecule must h ydrolyze . When A TP h ydrolyzes , its g amma phosphate does not simply float a way, but it actually tr ansf ers\nonto the pump pr otein. S cientists c all this pr ocess of a phosphate gr oup binding to a molecule phosphor ylation. As with most\nATP h ydrolysis c ases , a phosphate fr om A TP tr ansf ers onto another molecule . In a phosphor ylated state , the N a+/K+pump has\nmor e free energy and is trigger ed to undergo a c onformational change . This change allo ws it to r elease N a+to the c ell's outside .\nIt then binds e xtracellular K+, which, thr ough another c onformational change , causes the phosphate to detach fr om the pump .\nThis phosphate r elease triggers the K+to release to the c ell's inside . Essentially , the energy r eleased fr om the A TP h ydrolysis\ncouples with the energy r equir ed to po wer the pump and tr ansport N a+and K+ions . ATP perf orms c ellular w ork using this basic\nform of energy c oupling thr ough phosphor ylation.",
+        "section": "6.2",
+        "score": 0.0
+      },
+      {
+        "text": "and all tr ansf ers tr end to ward disor der.\n6.4ATP: Adenosine T riphosphate\nATP is the primar y energy -supplying molecule f or living\ncells. ATP is c omprised of a nucleotide , a fiv e-carbon sug ar,\nand thr ee phosphate gr oups . The bonds that c onnect the\nphosphates (phosphoanh ydride bonds) ha ve high-energy\ncontent. The energy r eleased fr om A TP h ydrolysis into ADP +\nPiperf orms c ellular w ork. C ells use A TP to perf orm w ork b y\ncoupling A TP h ydrolysis' e xergonic r eaction with endergonic\nreactions . ATP donates its phosphate gr oup to another\nmolecule via phosphor ylation. The phosphor ylated molecule\nis at a higher -energy state and is less stable than its\nunphosphor ylated f orm, and this added energy fr om\nphosphate allo ws the molecule to undergo its endergonic\nreaction.6.5Enzymes\nEnzymes ar e chemic al catalysts that ac celer ate chemic al\nreactions at ph ysiologic al temper atur es b y lowering their",
+        "section": "6.2",
+        "score": 0.0
+      },
+      {
+        "text": "which is pr ovided b y ATP. Myosin binds to actin at a binding site on the globular actin pr otein. M yosin has another binding site\nfor A TP at which enzymatic activity h ydrolyzes A TP to ADP , releasing an inorg anic phosphate molecule and energy .\nATP binding c auses m yosin to r elease actin, allo wing actin and m yosin to detach fr om each other . After this happens , the newly\nbound A TP is c onverted to ADP and inorg anic phosphate , Pi. The enzyme at the binding site on m yosin is c alled A TPase. The\nenergy r eleased during A TP h ydrolysis changes the angle of the m yosin head into a \u201cc ocked\u201d position. The m yosin head is then in\na position f or further mo vement, possessing potential energy , but ADP and P iare still attached. If actin binding sites ar e\ncovered and una vailable , the m yosin will r emain in the high energy c onfigur ation with A TP h ydrolyzed, but still attached.",
+        "section": "38.2",
+        "score": 0.0
+      },
+      {
+        "text": "on one side of the membr ane.\nIf the membr ane w ere continuously open to simple diffusion b y the h ydrogen ions , the ions w ould tend to diffuse back acr oss\ninto the matrix, driv en b y the c oncentr ations pr oducing their electr ochemic al gr adient. R ecall that man y ions c annot diffuse\nthrough the nonpolar r egions of phospholipid membr anes without the aid of ion channels . Similarly , hydrogen ions in the\nmatrix spac e can only pass thr ough the inner mitochondrial membr ane b y an inte gral membr ane pr otein c alled A TP synthase\n(Figur e 7.11 ). This c omple x pr otein acts as a tin y gener ator , turned b y the f orce of the h ydrogen ions diffusing thr ough it, do wn\ntheir electr ochemic al gr adient. The turning of parts of this molecular machine f acilitates the addition of a phosphate to ADP ,\nforming A TP,using the potential energy of the h ydrogen ion gr adient .\nVISU AL C ONNE CTION",
+        "section": "6.2",
+        "score": 0.0
+      },
+      {
+        "text": "VISU AL C ONNE CTION\nFigur e8.16 In the phot osystem II (PSII) r eaction c enter, ener gy from sunlight is used t o extract electr ons fr om w ater. The electr ons tr avel\nthrough the chlor oplas t electr on tr anspor t chain t o phot osystem I (PSI), which r educ es NADP+to NADPH. The electr on tr anspor t chain\nmoves pr otons acr oss the th ylak oid membr ane int o the lumen. A t the same time , split ting o f water adds pr otons t o the lumen, and\nreduction o f NADPH r emo ves pr otons fr om the s troma . The net r esul t is a lo w pH in the th ylak oid lumen, and a high pH in the s troma . ATP\nsynthase uses this electr ochemical gr adient t o mak e ATP.\nWhat is the initial sour ce of electr ons f or the chlor oplast electr on tr ansport chain?\na. water\nb.oxygen\nc.carbon dio xide\nd. NADPH\nThe r eaction c enter c ontains a pair of chlor oph yllamolecules with a special pr operty . Those tw o chlor oph ylls c an undergo",
+        "section": "8.5",
+        "score": 0.0
+      }
+    ],
+    "question_id": "BIO_CH7_Q3",
+    "correct_sections": "7.4",
+    "figures": "7.11"
+  },
+  {
+    "question": "In Figure 7.19, why are the regulatory steps positioned at reactions 1, 3, and 10 in glycolysis?",
+    "retrieved_chunks": [
+      {
+        "text": "Firs t Half o f Glycolysis (Ener gy-Requiring S teps)\nStep 1 . The first step in gly colysis ( Figur e 7.6 ) is c atalyzed b y he xokinase , an enzyme with br oad specificity that c atalyzes the\nphosphor ylation of six -carbon sug ars. Hexokinase phosphor ylates gluc ose using A TP as the sour ce of the phosphate , producing\ngluc ose-6-phosphate , a mor e reactiv e form of gluc ose. This r eaction pr events the phosphor ylated gluc ose molecule fr om\ncontinuing to inter act with the GLUT pr oteins , and it c an no longer lea ve the c ell bec ause the ne gativ ely charged phosphate will\nnot allo w it to cr oss the h ydrophobic interior of the plasma membr ane.\nStep 2 . In the sec ond step of gly colysis , an isomer ase c onverts gluc ose-6-phosphate into one of its isomers ,\nfructose-6-phosphate (this isomer has a phosphate attached at the loc ation of the sixth c arbon of the ring). A nisomer ase is an",
+        "section": "6.2",
+        "score": 0.0
+      },
+      {
+        "text": "17.The c ontr ol of which enzyme e xerts the most c ontr ol on\nglycolysis?\na. hexokinase\nb.phosphofructokinase\nc.gluc ose-6-phosphatase\nd. aldolaseChap ter 7 \u2022 Re view Ques tions 203\nCRITIC AL THINKING QUE STIONS\n18.Why is it beneficial f or c ells to use A TP r ather than\nenergy dir ectly fr om the bonds of c arboh ydrates? W hat\nare the gr eatest dr awbacks to harnessing energy dir ectly\nfrom the bonds of sev eral diff erent c ompounds?\n19.Nearly all org anisms on E arth c arry out some f orm of\nglycolysis . How does this f act support or not support the\nassertion that gly colysis is one of the oldest metabolic\npath ways?\n20.Because they lose their mitochondria during\ndevelopment, r ed blood c ells c annot perf orm aer obic\nrespir ation; ho wever, they do perf orm gly colysis in the\ncytoplasm. W hy do all c ells need an energy sour ce, and\nwhat w ould happen if gly colysis w ere block ed in a r ed\nblood c ell?\n21.What is the primar y diff erence betw een a cir cular",
+        "section": "7.12",
+        "score": 0.0
+      },
+      {
+        "text": "In or der f or p yruv ate, the pr oduct of gly colysis , to enter the ne xt path way, it must undergo sev eral changes . The c onversion is a\nthree-step pr ocess ( Figur e 7.8 ).\nStep 1. A carbo xyl gr oup is r emo ved fr om p yruv ate, releasing a molecule of c arbon dio xide into the surr ounding medium. This\nreaction cr eates a tw o-carbon h ydroxyethyl gr oup bound to the enzyme (p yruv ate deh ydrogenase). W e should note that this is\nthe first of the six c arbons fr om the original gluc ose molecule to be r emo ved. (This step pr oceeds twic e bec ause ther e ar etwo\npyruv ate molecules pr oduc ed at the end of gly colsis f or ev ery molecule of gluc ose metabolized anaer obic ally; thus , tw o of the six\ncarbons will ha ve been r emo ved at the end of both steps .)\nStep 2. The h ydroxyethyl gr oup is o xidized to an ac etyl gr oup , and the electr ons ar e pick ed up b y NAD+, forming N ADH . The",
+        "section": "6.2",
+        "score": 0.0
+      },
+      {
+        "text": "glycolysis\n\u2022Compar e the output o f gly colysis in terms o f ATP molecules and NADH molecules pr oduced\nAs y ou ha ve read, nearly all of the energy used b y living c ells c omes to them in the bonds of the sug ar gluc ose.Glycolysis is the\nfirst step in the br eakdown of gluc ose to e xtract energy f or c ellular metabolism. I n fact, nearly all living org anisms c arry out\nglycolysis as part of their metabolism. The pr ocess does not use o xygen dir ectly and ther efore is termed anaer obic . Glycolysis\ntakes plac e in the cytoplasm of both pr okaryotic and euk aryotic c ells. Glucose enters heter otrophic c ells in tw o ways. One\nmethod is thr ough sec ondar y activ e transport in which the tr ansport tak es plac e ag ainst the gluc ose c oncentr ation gr adient. The\nother mechanism uses a gr oup of inte gral pr oteins c alled GLUT pr oteins , also kno wn as gluc ose tr ansporter pr oteins . These\ntransporters assist in the f acilitated diffusion of gluc ose.",
+        "section": "6.2",
+        "score": 0.0
+      },
+      {
+        "text": "(produc ed b y the adr enal gland loc ated on top of the kidney) that r eadies the body f or short-term emergencies . Cyclic AMP\nactiv ates PK A (pr otein kinase A), which in turn phosphor ylates tw o enzymes . The first enzyme pr omotes the de gradation of\nglycogen b y activ ating intermediate gly cogen phosphor ylase kinase (GPK) that in turn activ ates gly cogen phosphor ylase (GP)\nthat c atabolizes gly cogen into its c onstituent gluc ose monomers . (Recall that y our body c onverts e xcess gluc ose to gly cogen f or\nshort-term stor age. When energy is needed, gly cogen is quickly r econverted to gluc ose.) Phosphor ylation of the sec ond enzyme ,\nglycogen synthase (GS), inhibits its ability to f orm gly cogen fr om gluc ose. In this manner , a muscle c ell obtains a r eady pool of\ngluc ose b y activ ating its f ormation via gly cogen de gradation and b y inhibiting the use of gluc ose to f orm gly cogen, thus",
+        "section": "9.7",
+        "score": 0.0
+      }
+    ],
+    "question_id": "BIO_CH7_Q4",
+    "correct_sections": "7.7",
+    "figures": "7.19"
+  },
+  {
+    "question": "Based on Figure 7.14, what distinguishes the outcomes of glycolysis versus fermentation in terms of NADH usage?",
+    "retrieved_chunks": [
+      {
+        "text": "glycolysis\n\u2022Compar e the output o f gly colysis in terms o f ATP molecules and NADH molecules pr oduced\nAs y ou ha ve read, nearly all of the energy used b y living c ells c omes to them in the bonds of the sug ar gluc ose.Glycolysis is the\nfirst step in the br eakdown of gluc ose to e xtract energy f or c ellular metabolism. I n fact, nearly all living org anisms c arry out\nglycolysis as part of their metabolism. The pr ocess does not use o xygen dir ectly and ther efore is termed anaer obic . Glycolysis\ntakes plac e in the cytoplasm of both pr okaryotic and euk aryotic c ells. Glucose enters heter otrophic c ells in tw o ways. One\nmethod is thr ough sec ondar y activ e transport in which the tr ansport tak es plac e ag ainst the gluc ose c oncentr ation gr adient. The\nother mechanism uses a gr oup of inte gral pr oteins c alled GLUT pr oteins , also kno wn as gluc ose tr ansporter pr oteins . These\ntransporters assist in the f acilitated diffusion of gluc ose.",
+        "section": "6.2",
+        "score": 0.0
+      },
+      {
+        "text": "17.The c ontr ol of which enzyme e xerts the most c ontr ol on\nglycolysis?\na. hexokinase\nb.phosphofructokinase\nc.gluc ose-6-phosphatase\nd. aldolaseChap ter 7 \u2022 Re view Ques tions 203\nCRITIC AL THINKING QUE STIONS\n18.Why is it beneficial f or c ells to use A TP r ather than\nenergy dir ectly fr om the bonds of c arboh ydrates? W hat\nare the gr eatest dr awbacks to harnessing energy dir ectly\nfrom the bonds of sev eral diff erent c ompounds?\n19.Nearly all org anisms on E arth c arry out some f orm of\nglycolysis . How does this f act support or not support the\nassertion that gly colysis is one of the oldest metabolic\npath ways?\n20.Because they lose their mitochondria during\ndevelopment, r ed blood c ells c annot perf orm aer obic\nrespir ation; ho wever, they do perf orm gly colysis in the\ncytoplasm. W hy do all c ells need an energy sour ce, and\nwhat w ould happen if gly colysis w ere block ed in a r ed\nblood c ell?\n21.What is the primar y diff erence betw een a cir cular",
+        "section": "7.12",
+        "score": 0.0
+      },
+      {
+        "text": "step going. If N AD+is not a vailable , the sec ond half of gly colysis slo ws do wn or stops . If o xygen is a vailable in the system, the\nNADH will be o xidized r eadily , though indir ectly , and the high-energy electr ons fr om the h ydrogen r eleased in this pr ocess will\nbe used to pr oduc e ATP. In an en vironment without o xygen, an alternate path way (fermentation) c an pr ovide the o xidation of\nNADH to N AD+.\nStep 7 . In the sev enth step , catalyzed b y phosphogly cerate kinase (an enzyme named f or the r everse r eaction),\n1,3-bisphosphogly cerate donates a high-energy phosphate to ADP , forming one molecule of A TP. (This is an e xample of\nsubstr ate-lev el phosphor ylation.) A c arbon yl gr oup on the 1,3-bisphosphogly cerate is o xidized to a c arbo xyl gr oup , and\n3-phosphogly cerate is f ormed.\nStep 8 . In the eighth step , the r emaining phosphate gr oup in 3-phosphogly cerate mo ves fr om the thir d carbon to the sec ond7.2 \u2022 Gly colysis 185",
+        "section": "6.2",
+        "score": 0.0
+      },
+      {
+        "text": "Contr ol of Ca tabolic P athways\nEnzymes , proteins , electr on c arriers , and pumps that pla y roles in gly colysis , the citric acid cy cle, and the electr on tr ansport\nchain tend to c atalyze nonr eversible r eactions . In other w ords, if the initial r eaction tak es plac e, the path way is c ommitted to\nproceeding with the r emaining r eactions . Whether a particular enzyme activity is r eleased depends upon the energy needs of\nthe c ell (as r eflected b y the lev els of A TP, ADP , and AMP).\nGlycolysis\nThe c ontr ol of gly colysis be gins with the first enzyme in the path way, hexokinase ( Figur e 7.19 ). This enzyme c atalyzes the\nphosphor ylation of gluc ose, which helps to pr epar e the c ompound f or clea vage in a later step . The pr esenc e of the ne gativ ely\ncharged phosphate in the molecule also pr events the sug ar fr om lea ving the c ell. W hen he xokinase is inhibited, gluc ose diffuses",
+        "section": "7.12",
+        "score": 0.0
+      },
+      {
+        "text": "Access f or free at opens tax.org.\nFigur e7.6The firs t half o f glycolysis uses tw o ATP molecules in the phosphor ylation o f gluc ose, which is then split int o tw o thr ee-carbon\nmolecules .\nSecond Half o f Glycolysis (Ener gy-Releasing S teps)\nSo far, gly colysis has c ost the c ell tw o ATP molecules and pr oduc ed tw o small, thr ee-c arbon sug ar molecules . Both of these\nmolecules will pr oceed thr ough the sec ond half of the path way, and sufficient energy will be e xtracted to pa y back the tw o ATP\nmolecules used as an initial in vestment and pr oduc e a pr ofit f or the c ell of tw o additional A TP molecules and tw o ev en higher -\nenergy N ADH molecules .\nStep 6 . The sixth step in gly colysis ( Figur e 7.7 ) oxidizes the sug ar (gly ceraldeh yde-3-phosphate), e xtracting high-energy\nelectr ons, which ar e pick ed up b y the electr on c arrier N AD+, producing N ADH . The sug ar is then phosphor ylated b y the addition",
+        "section": "6.2",
+        "score": 0.0
+      }
+    ],
+    "question_id": "BIO_CH7_Q5",
+    "correct_sections": "7.5",
+    "figures": "7.14"
+  },
+  {
+    "question": "Looking at Figure 7.2, what structural difference between NAD+ and NADH explains their different roles in electron transport?",
+    "retrieved_chunks": [
+      {
+        "text": "electr ons ar e remo ved fr om a c ompound, it is o xidized . A c ompound that o xidizes another is c alled an\noxidizing agent. I n the abo ve equation, N AD+is an o xidizing agent, and RH is o xidized to R.\nSimilarly , fla vin adenine dinucleotide (F AD+) is deriv ed fr om vitamin B 2, also c alled ribofla vin. Its r educ ed\nform is F ADH 2. A sec ond v ariation of N AD, NADP , contains an e xtra phosphate gr oup . Both N AD+and F AD+\nare extensiv ely used in energy e xtraction fr om sug ars, and N ADP pla ys an important r ole in anabolic\nreactions and photosynthesis in plants .180 Chap ter 7 \u2022 C ellular Respir ation\nAccess f or free at opens tax.org.\nFigur e7.2The o xidiz ed form o f the electr on carrier (NAD+) is sho wn on the left, and the r educ ed form (NADH) is sho wn on the right. The\nnitrogenous base in NADH has one mor e hydrogen ion and tw o mor e electr ons than in NAD+.\nATP in Living Sy stems",
+        "section": "6.2",
+        "score": 0.0
+      },
+      {
+        "text": "step going. If N AD+is not a vailable , the sec ond half of gly colysis slo ws do wn or stops . If o xygen is a vailable in the system, the\nNADH will be o xidized r eadily , though indir ectly , and the high-energy electr ons fr om the h ydrogen r eleased in this pr ocess will\nbe used to pr oduc e ATP. In an en vironment without o xygen, an alternate path way (fermentation) c an pr ovide the o xidation of\nNADH to N AD+.\nStep 7 . In the sev enth step , catalyzed b y phosphogly cerate kinase (an enzyme named f or the r everse r eaction),\n1,3-bisphosphogly cerate donates a high-energy phosphate to ADP , forming one molecule of A TP. (This is an e xample of\nsubstr ate-lev el phosphor ylation.) A c arbon yl gr oup on the 1,3-bisphosphogly cerate is o xidized to a c arbo xyl gr oup , and\n3-phosphogly cerate is f ormed.\nStep 8 . In the eighth step , the r emaining phosphate gr oup in 3-phosphogly cerate mo ves fr om the thir d carbon to the sec ond7.2 \u2022 Gly colysis 185",
+        "section": "6.2",
+        "score": 0.0
+      },
+      {
+        "text": "molecule v ery tightly betw een the ir on and c opper ions until the o xygen is c ompletely r educ ed b y the g ain of tw o electr ons. The\nreduc ed o xygen then picks up tw o hydrogen ions fr om the surr ounding medium to mak e water (H 2O). The r emo val of the\nhydrogen ions fr om the system c ontributes to the ion gr adient that f orms the f oundation f or the pr ocess of chemiosmosis .\nChemiosmosis\nIn chemiosmosis , the fr ee energy fr om the series of r edox reactions just described is used to pump h ydrogen ions (pr otons)\nacross the mitochondrial membr ane. The unev en distribution of H+ions acr oss the membr ane establishes both c oncentr ation\nand electric al gr adients (thus , an electr ochemic al gr adient), o wing to the h ydrogen ions\u2019 positiv e charge and their aggr egation\non one side of the membr ane.\nIf the membr ane w ere continuously open to simple diffusion b y the h ydrogen ions , the ions w ould tend to diffuse back acr oss",
+        "section": "6.2",
+        "score": 0.0
+      },
+      {
+        "text": "electr ons, which ar e pick ed up b y the electr on c arrier N AD+, producing N ADH . The sug ar is then phosphor ylated b y the addition\nof a sec ond phosphate gr oup , producing 1,3-bisphosphogly cerate. Note that the sec ond phosphate gr oup does not r equir e\nanother A TP molecule .\nFigur e7.7The sec ond half o f glycolysis in volves phosphor ylation without A TP in vestment (s tep 6) and pr oduc es tw o NADH and f our A TP\nmolecules per gluc ose.\nHere ag ain is a potential limiting f actor f or this path way. The c ontinuation of the r eaction depends upon the a vailability of the\noxidized f orm of the electr on c arrier , NAD+. Thus , NADH must be c ontinuously o xidized back into N AD+in or der to k eep this\nstep going. If N AD+is not a vailable , the sec ond half of gly colysis slo ws do wn or stops . If o xygen is a vailable in the system, the",
+        "section": "6.2",
+        "score": 0.0
+      },
+      {
+        "text": "in 6 molecules of 3- PGA). This pr ocess is c alled carbon fixation , bec ause C O2is \u201cfix ed\u201d fr om an inorg anic f orm into org anic\nmolecules .\nStage 2: R eduction\nATP and N ADPH ar e used to c onvert the six molecules of 3- PGA into six molecules of a chemic al called gly ceraldeh yde\n3-phosphate (G3P). That is a r eduction r eaction bec ause it in volves the g ain of electr ons b y 3-PGA. (R ecall that a reduction is the\ngain of an electr on b y an atom or molecule .) Six molecules of both A TP and N ADPH ar e used. F or A TP, energy is r eleased with\nthe loss of the terminal phosphate atom, c onverting it into ADP; f or N ADPH , both energy and a h ydrogen atom ar e lost,\nconverting it into N ADP+. Both of these molecules r eturn to the nearb y light-dependent r eactions to be r eused and r e-\nenergized.\nStage 3: R egener ation\nInter estingly , at this point, only one of the G3P molecules lea ves the Calvin cy cle and is sent to the cytoplasm to c ontribute to the",
+        "section": "8.5",
+        "score": 0.0
+      }
+    ],
+    "question_id": "BIO_CH7_Q6",
+    "correct_sections": "7.1",
+    "figures": "7.2"
+  },
+  {
+    "question": "In Figure 7.5, how does the structural organization of the mitochondrion support oxidative phosphorylation?",
+    "retrieved_chunks": [
+      {
+        "text": "involved.\nWhile the metabolic org anelles and genes r esponsible f or man y energy -har vesting pr ocesses appear to ha ve had their origins in\nbacteria, our nuclear genes and the molecular machiner y responsible f or replic ation and e xpression appear to be mor e closely\nrelated to those f ound in the A rchaea. M uch r emains to be clarified about ho w this r elationship oc curr ed; this c ontinues to be an\nexciting field of disc overy in biology . For instanc e, it is not kno wn whether the endosymbiotic ev ent that led to mitochondria\noccurr ed bef ore or after the host c ell had a nucleus . Such org anisms w ould be among the e xtinct pr ecursors of the last c ommon\nancestor of euk aryotes .23.1 \u2022 Euk aryotic Origins 575\nMitochondria\nOne of the major f eatur es distinguishing pr okaryotes fr om euk aryotes is the pr esenc e of mitochondria, or their r educ ed",
+        "section": "23.1",
+        "score": 0.0
+      },
+      {
+        "text": "transport chain is pr esent with multiple c opies in the inner mitochondrial membr ane of euk aryotes and within the plasma\nmembr ane of pr okaryotes .\nFigur e7.10 The electr on tr anspor t chain is a series o f electr on tr anspor ters embedded in the inner mit ochondrial membr ane that shut tles\nelectr ons fr om NADH and F ADH 2to molecular o xygen. In the pr ocess, protons ar e pumped fr om the mit ochondrial matrix t o the\nintermembr ane spac e, and o xygen is r educ ed to form w ater.\nComple x I\nFirst, tw o electr ons ar e carried to the first c omple x via N ADH . This c omple x, labeled I, is c omposed of fla vin mononucleotide\n(FMN) and an ir on-sulfur (F e-S)-c ontaining pr otein. FMN , which is deriv ed fr om vitamin B 2(also c alled ribofla vin), is one of\nseveral pr osthetic gr oups or c ofactors in the electr on tr ansport chain. A prosthetic gr oup is a nonpr otein molecule r equir ed f or",
+        "section": "6.2",
+        "score": 0.0
+      },
+      {
+        "text": "which tak es plac e in mitochondria ( Figur e 7.5 ) within a euk aryotic c ell or the plasma membr ane of a pr okaryotic c ell.\nChemiosmosis , a pr ocess of A TP pr oduction in c ellular metabolism, is used to gener ate 90 per cent of the A TP made during\ngluc ose c atabolism and is also the method used in the light r eactions of photosynthesis to harness the energy of sunlight. The\nproduction of A TP using the pr ocess of chemiosmosis is c alled oxidativ e phosphor ylation because of the in volvement of o xygen\nin the pr ocess.\nFigur e7.5In euk aryotes, oxidativ e phosphor ylation tak es plac e in mit ochondria . In pr okaryotes, this pr ocess tak es plac e in the plasma\nmembr ane. (Cr edit: modification o f work b y Mariana Ruiz Vil lareal)\nCAREER C ONNE CTION\nMitochondrial Disease Ph ysician\nWhat happens when the critic al reactions of c ellular r espir ation do not pr oceed c orrectly? This ma y happen in mitochondrial",
+        "section": "6.2",
+        "score": 0.0
+      },
+      {
+        "text": "mitochondrial inner membr ane, can be seen in cr oss-section. (cr edit: L ouise Ho ward)\nThe thir d line of evidenc e comes fr om the pr oduction of new mitochondria. M itochondria divide independently b y a pr ocess\nthat r esembles binar y fission in pr okaryotes . Mitochondria arise only fr om pr evious mitochondria; they ar e not f ormed fr om\nscratch (de no vo) by the euk aryotic c ell. M itochondria ma y fuse together; and they ma y be mo ved ar ound inside the c ell b y\ninter actions with the cytosk eleton. They r eproduc e within their enclosing c ell and ar e distributed with the cytoplasm when a c ell\ndivides or tw o cells fuse . Ther efore, although these org anelles ar e highly inte grated into the euk aryotic c ell, they still r eproduc e\nas if they w ere independent org anisms within the c ell. H owever, their r eproduction is synchr onized with the activity and",
+        "section": "23.1",
+        "score": 0.0
+      },
+      {
+        "text": "all, anaer obic euk aryotes , and that virtually all euk aryotes appear to c arry some genes in their nuclei that ar e of mitochondrial\norigin.\nIn addition to the aer obic gener ation of A TP, mitochondria ha ve sev eral other metabolic functions . One of these functions is to\ngener ate clusters of ir on and sulfur that ar e important c ofactors of man y enzymes . Such functions ar e often associated with the\nreduc ed mitochondrion-deriv ed org anelles of anaer obic euk aryotes . The pr otist Monoc ercomonoides ,an inhabitant of\nvertebr ate digestiv e tracts , appears to be an e xception; it has no mitochondria and its genome c ontains neither genes deriv ed\nfrom mitochondria nor nuclear genes r elated to mitochondrial maintenanc e. However, it is r elated to other pr otists with\nreduc ed mitochondria and pr obably r epresents an end-point in mitochondrial r eduction. A lthough most biologists ac cept that",
+        "section": "23.1",
+        "score": 0.0
+      }
+    ],
+    "question_id": "BIO_CH7_Q7",
+    "correct_sections": "7.4",
+    "figures": "7.5"
+  },
+  {
+    "question": "Based on Figure 7.17, how do fatty acids connect to the cellular respiration pathway?",
+    "retrieved_chunks": [
+      {
+        "text": "in only one dir ection. The pr ocess c annot be r eversed.\nTrigly cerides\u2014made fr om the bonding of gly cerol and thr ee fatty acids\u2014ar e a f orm of long-term energy stor age in animals .\nAnimals c an mak e most of the f atty acids they need. T rigly cerides c an be both made and br oken do wn thr ough parts of the\ngluc ose c atabolism path ways. Glycerol can be phosphor ylated to gly cerol-3-phosphate , which c ontinues thr ough gly colysis . Fatty\nacids ar e catabolized in a pr ocess c alled beta-o xidation, which tak es plac e in the matrix of the mitochondria and c onverts their\nfatty acid chains into tw o-carbon units of ac etyl gr oups . The ac etyl gr oups ar e pick ed up b y CoA to f orm ac etyl C oA that pr oceeds\ninto the citric acid cy cle.196 Chap ter 7 \u2022 C ellular Respir ation\nAccess f or free at opens tax.org.\nFigur e7.17 Glycogen fr om the liv er and muscles , as w ell as other carboh ydrates, hydrolyzed int o gluc ose-1-phosphat e, together with fats",
+        "section": "7.12",
+        "score": 0.0
+      },
+      {
+        "text": "adipocytes , wher e fat globules oc cupy most of the c ell\u2019s v olume . Plants stor e fat or oil in man y seeds and use them as a sour ce of\nenergy during seedling dev elopment. U nsatur ated f ats or oils ar e usually of plant origin and c ontain cisunsatur ated f atty acids .\nCisand trans indic ate the c onfigur ation of the molecule ar ound the double bond. If h ydrogens ar e pr esent in the same plane , it\nis a cis f at. If the h ydrogen atoms ar e on tw o diff erent planes , it is a trans f at. The cisdouble bond c auses a bend or a \u201ckink \u201d that\nprevents the f atty acids fr om packing tightly , keeping them liquid at r oom temper atur e (Figur e 3.16 ). Oliv e oil, c orn oil, c anola\noil, and c od liv er oil ar e examples of unsatur ated f ats. Unsatur ated f ats help to lo wer blood cholester ol lev els; wher eas, satur ated\nfats c ontribute to plaque f ormation in the arteries .72 Chap ter 3 \u2022 Biological Macr omolecules\nAccess f or free at opens tax.org.",
+        "section": "1.6",
+        "score": 0.0
+      },
+      {
+        "text": "bonds of the cis- conformation in the h ydrocarbon chain ma y convert to double bonds in the trans- conformation.\nMargarine , some types of peanut butter , and shortening ar e examples of artificially h ydrogenated tr ans f ats. Recent studies ha ve\nshown that an incr ease in tr ans f ats in the human diet ma y lead to higher lev els of lo w-density lipopr oteins (L DL), or \u201cbad\u201d\ncholester ol, which in turn ma y lead to plaque deposition in the arteries , resulting in heart disease . Many fast f ood r estaur ants\nhave recently banned using tr ans f ats, and f ood labels ar e requir ed to displa y the tr ans f at content.\nOmeg a Fatty Acids\nEssential f atty acids ar e those that the human body r equir es but does not synthesize . Consequently , they ha ve to be\nsupplemented thr ough ingestion via the diet. Omega-3 fatty acids (lik e those in Figur e 3.17 ) fall into this c ategory and ar e one of",
+        "section": "1.6",
+        "score": 0.0
+      },
+      {
+        "text": "prevents it fr om leaking out of the c ell or cr eating a high\nosmotic pr essur e that c ould c ause the c ell to uptak e excessiv e\nwater .\n3.3Lipids\nLipids ar e a class of macr omolecules that ar e nonpolar and\nhydrophobic in natur e. Major types include f ats and oils ,\nwaxes, phospholipids , and ster oids . Fats ar e a stor ed f orm of\nenergy and ar e also kno wn as triacylgly cerols or\ntrigly cerides . Fats ar e comprised of f atty acids and either\nglycerol or sphingosine . Fatty acids ma y be unsatur ated or\nsatur ated, depending on the pr esenc e or absenc e of double\nbonds in the h ydrocarbon chain. If only single bonds ar e\npresent, they ar e satur ated f atty acids . Unsatur ated f atty\nacids ma y ha ve one or mor e double bonds in the h ydrocarbon\nchain. Phospholipids c omprise the membr ane's matrix. They\nhave a gly cerol or sphingosine backbone to which tw o fatty\nacid chains and a phosphate-c ontaining gr oup ar e attached.",
+        "section": "3.31",
+        "score": 0.0
+      },
+      {
+        "text": "fatty acid chains attached to a gly cerol or sphingosine backbone . However, instead of thr ee fatty acids attached as in74 Chap ter 3 \u2022 Biological Macr omolecules\nAccess f or free at opens tax.org.\ntrigly cerides , ther e ar e tw o fatty acids f orming diacylgly cerol, and a modified phosphate gr oup oc cupies the gly cerol backbone 's\nthir d carbon ( Figur e 3.19 ). A phosphate gr oup alone attached to a diacylgly cerol does not qualify as a phospholipid. It is\nphosphatidate (diacylgly cerol 3-phosphate), the pr ecursor of phospholipids . An alc ohol modifies the phosphate gr oup .\nPhosphatidylcholine and phosphatidylserine ar e tw o important phospholipids that ar e in plasma membr anes .\nFigur e3.19 A phospholipid is a molecule with tw o fat ty acids and a modified phosphat e group at tached t o a gl ycerol backbone . Adding a\nchar ged or polar chemical gr oup ma y modif y the phosphat e.",
+        "section": "1.6",
+        "score": 0.0
+      }
+    ],
+    "question_id": "BIO_CH7_Q8",
+    "correct_sections": "7.6",
+    "figures": "7.17"
+  },
+  {
+    "question": "In Figure 7.18, what aspect of GLUT4 trafficking demonstrates its regulation by insulin?",
+    "retrieved_chunks": [
+      {
+        "text": "nucleic acid pr oduction. I n short, the c ell needs to c ontr ol its metabolism.\nRegulatory Mechanisms\nA variety of mechanisms is used to c ontr ol cellular r espir ation. S ome type of c ontr ol exists at each stage of gluc ose metabolism.\nAccess of gluc ose to the c ell c an be r egulated using the GLUT (gluc ose tr ansporter) pr oteins that tr ansport gluc ose ( Figur e 7.18 ).7.7 \u2022 Regulation o f Cellular Respir ation 197\nDiff erent f orms of the GLUT pr otein c ontr ol passage of gluc ose into the c ells of specific tissues .\nFigur e7.18 GLUT4 is a gluc ose tr anspor ter that is s tored in v esicles . A cascade o f events that oc curs upon insulin binding t o a r eceptor in\nthe plasma membr ane causes GL UT4- containing v esicles t o fuse with the plasma membr ane so that gluc ose ma y be tr anspor ted int o the\ncell.\nSome r eactions ar e contr olled b y ha ving tw o diff erent enzymes\u2014one each f or the tw o dir ections of a r eversible r eaction.",
+        "section": "7.12",
+        "score": 0.0
+      },
+      {
+        "text": "classes and what is one f actor that distinguishes them?\n22.Where is insulin stor ed, and wh y would it be r eleased?\n23.Glucagon is the peptide hormone that signals f or the\nbody to r elease gluc ose into the bloodstr eam. H ow does\ngluc agon c ontribute to maintaining homeostasis\nthroughout the body? W hat other hormones ar e\ninvolved in r egulating the blood gluc ose cy cle?\n24.Name tw o important functions of hormone r eceptors .\n25.How can hormones mediate changes?\n26.Why is cAMP -mediated signal amplific ation not\nrequir ed in ster oid hormone signaling? Describe ho w\nster oid signaling is amplified instead.\n27.Name and describe a function of one hormone pr oduc ed\nby the anterior pituitar y and one hormone pr oduc ed b y\nthe posterior pituitar y.\n28.Describe one dir ect action of gr owth hormone (GH).29.Resear chers ha ve recently demonstr ated that str essed\npeople ar e mor e susc eptible to c ontr acting the c ommon\ncold than people who ar e not str essed. W hat kind of",
+        "section": "37.1",
+        "score": 0.0
+      },
+      {
+        "text": "stimulated b y the suckling of an inf ant, which triggers the synthesis of o xytocin in the h ypothalamus and its r elease into\ncirculation at the posterior pituitar y.\nHormonal R egulation o f Metabolism\nBlood gluc ose lev els v ary widely o ver the c ourse of a da y as periods of f ood c onsumption alternate with periods of f asting.\nInsulin and gluc agon ar e the tw o hormones primarily r esponsible f or maintaining homeostasis of blood gluc ose lev els.1058 Chap ter 37 \u2022 The Endocrine S ystem\nAccess f or free at opens tax.org.\nAdditional r egulation is mediated b y the th yroid hormones .\nRegulation o f Blood Gluc ose L evels b y Insulin and Glucag on\nCells of the body r equir e nutrients in or der to function, and these nutrients ar e obtained thr ough f eeding. I n or der to manage\nnutrient intak e, storing e xcess intak e and utilizing r eser ves when nec essar y, the body uses hormones to moder ate energy stor es.",
+        "section": "37.1",
+        "score": 0.0
+      },
+      {
+        "text": "decline , alpha c ells r elease gluc agon to r aise the blood gluc ose lev els b y incr easing r ates of gly cogen br eakdown and gluc ose\nrelease b y the liv er. When blood gluc ose lev els rise , such as after a meal, beta c ells r elease insulin to lo wer blood gluc ose lev els b y\nincr easing the r ate of gluc ose uptak e in most body c ells, and b y incr easing gly cogen synthesis in sk eletal muscles and the liv er.\nTogether , gluc agon and insulin r egulate blood gluc ose lev els.1070 Chap ter 37 \u2022 The Endocrine S ystem\nAccess f or free at opens tax.org.\nFigur e37.20 The islets o f Langerhans ar e clus ters o f endocrine c ells found in the pancr eas; the y stain light er than surr ounding c ells.\n(credit: modification o f work b y Muhammad T . Tabiin, Chris topher P . Whit e, Grant Mor ahan, and Bernar d E. T uch; scale -bar data fr om Mat t\nRussell)\nPineal Gland",
+        "section": "37.1",
+        "score": 0.0
+      },
+      {
+        "text": "milk let-do wn during suckling.\nInsulin is pr oduc ed b y the pancr eas in r esponse to rising\nblood gluc ose lev els and allo ws c ells to utilize blood gluc ose\nand stor e excess gluc ose f or later use . Diabetes mellitus is\ncaused b y reduc ed insulin activity and c auses high blood\ngluc ose lev els, or h ypergly cemia. G lucagon is r eleased b y the\npancr eas in r esponse to lo w blood gluc ose lev els and\nstimulates the br eakdown of gly cogen into gluc ose, whichcan be used b y the body . The body \u2019s basal metabolic r ate is\ncontr olled b y the th yroid hormones th yroxine (T 4) and\ntriiodoth yronine (T 3). The anterior pituitar y pr oduc es th yroid\nstimulating hormone (TSH), which c ontr ols the r elease of T 3\nand T 4from the th yroid gland. I odine is nec essar y in the\nproduction of th yroid hormone , and the lack of iodine c an\nlead to a c ondition c alled goiter .\nParathyroid hormone (PTH) is pr oduc ed b y the par athyroid",
+        "section": "37.1",
+        "score": 0.0
+      }
+    ],
+    "question_id": "BIO_CH7_Q9",
+    "correct_sections": "7.7",
+    "figures": "7.18"
+  },
+  {
+    "question": "Looking at Figure 7.7, why does glycolysis proceed in both directions between 3-phosphoglycerate and 2-phosphoglycerate?",
+    "retrieved_chunks": [
+      {
+        "text": "17.The c ontr ol of which enzyme e xerts the most c ontr ol on\nglycolysis?\na. hexokinase\nb.phosphofructokinase\nc.gluc ose-6-phosphatase\nd. aldolaseChap ter 7 \u2022 Re view Ques tions 203\nCRITIC AL THINKING QUE STIONS\n18.Why is it beneficial f or c ells to use A TP r ather than\nenergy dir ectly fr om the bonds of c arboh ydrates? W hat\nare the gr eatest dr awbacks to harnessing energy dir ectly\nfrom the bonds of sev eral diff erent c ompounds?\n19.Nearly all org anisms on E arth c arry out some f orm of\nglycolysis . How does this f act support or not support the\nassertion that gly colysis is one of the oldest metabolic\npath ways?\n20.Because they lose their mitochondria during\ndevelopment, r ed blood c ells c annot perf orm aer obic\nrespir ation; ho wever, they do perf orm gly colysis in the\ncytoplasm. W hy do all c ells need an energy sour ce, and\nwhat w ould happen if gly colysis w ere block ed in a r ed\nblood c ell?\n21.What is the primar y diff erence betw een a cir cular",
+        "section": "7.12",
+        "score": 0.0
+      },
+      {
+        "text": "glycolysis\n\u2022Compar e the output o f gly colysis in terms o f ATP molecules and NADH molecules pr oduced\nAs y ou ha ve read, nearly all of the energy used b y living c ells c omes to them in the bonds of the sug ar gluc ose.Glycolysis is the\nfirst step in the br eakdown of gluc ose to e xtract energy f or c ellular metabolism. I n fact, nearly all living org anisms c arry out\nglycolysis as part of their metabolism. The pr ocess does not use o xygen dir ectly and ther efore is termed anaer obic . Glycolysis\ntakes plac e in the cytoplasm of both pr okaryotic and euk aryotic c ells. Glucose enters heter otrophic c ells in tw o ways. One\nmethod is thr ough sec ondar y activ e transport in which the tr ansport tak es plac e ag ainst the gluc ose c oncentr ation gr adient. The\nother mechanism uses a gr oup of inte gral pr oteins c alled GLUT pr oteins , also kno wn as gluc ose tr ansporter pr oteins . These\ntransporters assist in the f acilitated diffusion of gluc ose.",
+        "section": "6.2",
+        "score": 0.0
+      },
+      {
+        "text": "Firs t Half o f Glycolysis (Ener gy-Requiring S teps)\nStep 1 . The first step in gly colysis ( Figur e 7.6 ) is c atalyzed b y he xokinase , an enzyme with br oad specificity that c atalyzes the\nphosphor ylation of six -carbon sug ars. Hexokinase phosphor ylates gluc ose using A TP as the sour ce of the phosphate , producing\ngluc ose-6-phosphate , a mor e reactiv e form of gluc ose. This r eaction pr events the phosphor ylated gluc ose molecule fr om\ncontinuing to inter act with the GLUT pr oteins , and it c an no longer lea ve the c ell bec ause the ne gativ ely charged phosphate will\nnot allo w it to cr oss the h ydrophobic interior of the plasma membr ane.\nStep 2 . In the sec ond step of gly colysis , an isomer ase c onverts gluc ose-6-phosphate into one of its isomers ,\nfructose-6-phosphate (this isomer has a phosphate attached at the loc ation of the sixth c arbon of the ring). A nisomer ase is an",
+        "section": "6.2",
+        "score": 0.0
+      },
+      {
+        "text": "3-phosphogly cerate is f ormed.\nStep 8 . In the eighth step , the r emaining phosphate gr oup in 3-phosphogly cerate mo ves fr om the thir d carbon to the sec ond7.2 \u2022 Gly colysis 185\ncarbon, pr oducing 2-phosphogly cerate (an isomer of 3-phosphogly cerate). The enzyme c atalyzing this step is a mutase\n(isomer ase).\nStep 9 . Enolase c atalyzes the ninth step . This enzyme c auses 2-phosphogly cerate to lose w ater fr om its structur e; this is a\ndeh ydration r eaction, r esulting in the f ormation of a double bond that incr eases the potential energy in the r emaining\nphosphate bond and pr oduc es phosphoenolp yruv ate (PEP).\nStep 10 . The last step in gly colysis is c atalyzed b y the enzyme p yruv ate kinase (the enzyme in this c ase is named f or the r everse\nreaction of p yruv ate\u2019s conversion into PEP) and r esults in the pr oduction of a sec ond A TP molecule b y substr ate-lev el",
+        "section": "6.2",
+        "score": 0.0
+      },
+      {
+        "text": "As A TP is used f or energy , a phosphate gr oup or tw o ar e\ndetached, and either ADP or AMP is pr oduc ed. E nergy\nderiv ed fr om gluc ose c atabolism is used to c onvert ADP into\nATP. When A TP is used in a r eaction, the thir d phosphate is\ntempor arily attached to a substr ate in a pr ocess c alled\nphosphor ylation. The tw o pr ocesses of A TP r egener ation that\nare used in c onjunction with gluc ose c atabolism ar e\nsubstr ate-lev el phosphor ylation and o xidativ e\nphosphor ylation thr ough the pr ocess of chemiosmosis .\n7.2Glycolysis\nGlycolysis is the first path way within the cytoplasm used in\nthe br eakdown of gluc ose to e xtract energy . It w as pr obably\none of the earliest metabolic path ways to ev olve and is used\nby nearly all of the org anisms on E arth. G lycolysis c onsists of\ntwo parts: The first part pr epar es the six -carbon ring ofgluc ose f or clea vage into tw o thr ee-c arbon sug ars. ATP is\ninvested in the pr ocess during this half to energize the",
+        "section": "7.12",
+        "score": 0.0
+      }
+    ],
+    "question_id": "BIO_CH7_Q10",
+    "correct_sections": "7.2",
+    "figures": "7.7"
+  },
+  {
+    "question": "In Figure 7.4, what does the red line represent in the context of hydrogen atoms approaching each other?",
+    "retrieved_chunks": [
+      {
+        "text": "in the 2n orbital . Each spher e is a single orbital . Thr ee dumbbel l-shaped orbitals c omprise psubshel ls. Principal shel l 2n has a psubshel l,\nbut shel l 1 does not.\nThe closest orbital to the nucleus , the 1s orbital, c an hold up to tw o electr ons. This orbital is equiv alent to the B ohr model's\ninnermost electr on shell. S cientists c all it the 1 sorbital bec ause it is spheric al ar ound the nucleus . The 1 sorbital is the closest\norbital to the nucleus , and it is alw ays filled first, bef ore an y other orbital fills . Hydrogen has one electr on; ther efore, it oc cupies\nonly one spot within the 1 sorbital. W e designate this as 1 s1, wher e the superscripted 1 r efers to the one electr on within the 1 s\norbital. H elium has tw o electr ons; ther efore, it c an c ompletely fill the 1 sorbital with its tw o electr ons. We designate this as 1 s2,",
+        "section": "1.6",
+        "score": 0.0
+      },
+      {
+        "text": "temper atur e. A gold c oin is simply a v ery large number of gold atoms molded into the shape of a c oin and\ncontains small amounts of other elements kno wn as impurities . We cannot br eak do wn gold atoms into\nanything smaller while still r etaining the pr operties of gold.\nAn atom is c omposed of tw o regions: the nuc leus , which is in the atom 's center and c ontains pr otons and\nneutr ons. The atom 's outermost r egion holds its electr ons in orbit ar ound the nucleus , as Figur e 2.2\nillustr ates . Atoms c ontain pr otons , electr ons, and neutr ons, among other subatomic particles . The only\nexception is h ydrogen (H), which is made of one pr oton and one electr on with no neutr ons.30 Chap ter 2 \u2022 The Chemical F oundation o f Life\nAccess f or free at opens tax.org.\nFigur e2.2Elements , such as helium, depict ed her e, are made up o f atoms . Atoms ar e made up o f protons and neutr ons locat ed within the\nnucleus , with electr ons in orbitals surr ounding the nucleus .",
+        "section": "1.6",
+        "score": 0.0
+      },
+      {
+        "text": "localized and oc curs within f olded membr anes , extensions of\nthe plasma membr ane, and in the cytoplasm.\n8.2The Light -Dependent Reac tions\nof Pho tosynthesis\nThe pigments of the first part of photosynthesis , the light-\ndependent r eactions , absorb energy fr om sunlight. A photon\nstrik es the antenna pigments of photosystem II to initiate\nphotosynthesis . The energy tr avels to the r eaction c enter thatcontains chlor oph yllaand then to the electr on tr ansport\nchain, which pumps h ydrogen ions into the th ylak oid\ninterior . This action builds up a high c oncentr ation of\nhydrogen ions . The h ydrogen ions flo w thr ough A TP synthase\nduring chemiosmosis to f orm molecules of A TP, which ar e\nused f or the f ormation of sug ar molecules in the sec ond\nstage of photosynthesis . Photosystem I absorbs a sec ond\nphoton, which r esults in the f ormation of an N ADPH\nmolecule , another energy and r educing c arrier f or the light-\nindependent r eactions .",
+        "section": "8.5",
+        "score": 0.0
+      },
+      {
+        "text": "element and the appr oximat e atomic mas s appears belo w it.\nThe periodic table gr oups elements ac cording to chemic al pr operties . Scientists base the diff erences in chemic al reactivity\nbetw een the elements on the number and spatial distribution of an atom \u2019s electr ons. Atoms that chemic ally r eact and bond to\neach other f orm molecules .Molecules are simply tw o or mor e atoms chemic ally bonded together . Logic ally, when tw o atoms\nchemic ally bond to f orm a molecule , their electr ons, which f orm the outermost r egion of each atom, c ome together first as the\natoms f orm a chemic al bond.\nElectr on Shel ls and the Bohr Model\nNote that ther e is a c onnection betw een the number of pr otons in an element, the atomic number that distinguishes one\nelement fr om another , and the number of electr ons it has . In all electric ally neutr al atoms , the number of electr ons is the same",
+        "section": "1.6",
+        "score": 0.0
+      },
+      {
+        "text": "In the periodic table in Figur e 2.5 , the elements ar e org anized and displa yed ac cording to their atomic number and ar e arr anged\nin a series of r ows and c olumns based on shar ed chemic al and ph ysic al pr operties . In addition to pr oviding the atomic number\nfor each element, the periodic table also displa ys the element\u2019s atomic mass . Looking at c arbon, f or e xample , its symbol (C) and\nname appear , as w ell as its atomic number of six (in the upper left-hand c orner) and its atomic mass of 12.01.2.1 \u2022 A toms , Isotopes , Ions , and Molecules: The Building Block s 33\nFigur e2.5The periodic table sho ws each element's at omic mas s and at omic number . The at omic number appears abo ve the s ymbol f or the\nelement and the appr oximat e atomic mas s appears belo w it.\nThe periodic table gr oups elements ac cording to chemic al pr operties . Scientists base the diff erences in chemic al reactivity",
+        "section": "1.6",
+        "score": 0.0
+      }
+    ],
+    "question_id": "CHEM_CH7_Q1",
+    "correct_sections": "7.2",
+    "figures": "7.4"
+  },
+  {
+    "question": "Based on Figure 7.5, what does the larger shaded area around Cl signify in the H\u2013Cl molecule?",
+    "retrieved_chunks": [
+      {
+        "text": "during c ertain stages of the c ell cy cle. Ther e ar e a number of w ays that chr omosomes ar e compacted.\nIn the first lev el of c ompaction, short str etches of the DN A double helix wr ap ar ound a c ore of eight histone pr oteins at regular\ninter vals along the entir e length of the chr omosome ( Figur e 10.4 ). The DN A-histone c omple x is c alled chr omatin. The beadlik e,\nhistone DN A comple x is c alled a nuc leosome , and DN A connecting the nucleosomes is c alled link er DN A. A DN A molecule in\nthis f orm is about sev en times shorter than the double helix without the histones , and the beads ar e about 10 nm in diameter , in\ncontr ast with the 2-nm diameter of a DN A double helix.\nThe sec ond lev el of c ompaction oc curs as the nucleosomes and the link er DN A betw een them c oil into a 30-nm chr omatin fiber .\nThis c oiling further condenses the chr omosome so that it is no w about 50 times shorter than the e xtended f orm.",
+        "section": "10.1",
+        "score": 0.0
+      },
+      {
+        "text": "Everyday C onnec tion\nChesapeak e Ba y\nFigur e46.20 This (a) sat ellite imag e sho ws the Chesapeak e Ba y, an ec osystem aff ected b y phosphat e and nitr ate runo ff. A (b) member\nof the Arm y Corps o f Engineers holds a clump o f oysters being used as a par t of the o yster restoration eff ort in the ba y. (credit a:\nmodification o f work b y NASA/MODIS; cr edit b: modification o f work b y U.S. Arm y)1362 Chap ter 46 \u2022 Ecos ystems\nAccess f or free at opens tax.org.\nThe Sulfur Cy cle\nSulfur is an essential element f or the macr omolecules of living things . As a part of the amino acid cysteine , it is in volved in the\nformation of disulfide bonds within pr oteins , which help to determine their 3- D folding patterns , and henc e their functions . As\nshown in Figur e 46.21 , sulfur cy cles betw een the oc eans , land, and atmospher e. Atmospheric sulfur is f ound in the f orm of",
+        "section": "46.1",
+        "score": 0.0
+      },
+      {
+        "text": "molecules (which look lik e a c ollection of balls in an artist\u2019s r endition of the model) ( Figur e 5.2 ) are in c ontact with the aqueous\nfluid both inside and outside the c ell.Hydrophobic , or w ater -hating molecules , tend to be non-polar . They inter act with other\nnon-polar molecules in chemic al reactions , but gener ally do not inter act with polar molecules . When plac ed in w ater ,\nhydrophobic molecules tend to f orm a ball or cluster . The phospholipids' h ydrophilic r egions f orm h ydrogen bonds with w ater\nand other polar molecules on both the c ell's e xterior and interior . Thus , the membr ane surf aces that f ace the c ell's interior and\nexterior ar e hydrophilic . In contr ast, the c ell membr ane's interior is h ydrophobic and will not inter act with w ater . Ther efore,\nphospholipids f orm an e xcellent tw o-la yer cell membr ane that separ ates fluid within the c ell fr om the fluid outside the c ell.",
+        "section": "4.8",
+        "score": 0.0
+      },
+      {
+        "text": "are firmly attached to the c entr omeric r egion. The c entr osome is also duplic ated during the S phase . The tw o centr osomes of\nhomologous chr omosomes will giv e rise to the mitotic spindle , the appar atus that or chestr ates the mo vement of chr omosomes\nduring mitosis . For e xample , roughly at the c enter of each animal c ell, the c entr osomes ar e associated with a pair of r od-lik e\nobjects , the centrioles , which ar e positioned at right angles to each other . Centrioles help org anize c ell division. W e should note ,10.2 \u2022 The C ell Cycle 257\nhowever, that c entrioles ar e not pr esent in the c entr osomes of other euk aryotic org anisms , such as plants and most fungi.\nG2Phase (Sec ond Gap)\nIn the G2phase , the c ell r eplenishes its energy stor es and synthesizes pr oteins nec essar y for chr omosome manipulation and\nmovement. S ome c ell org anelles ar e duplic ated, and the cytosk eleton is dismantled to pr ovide r esour ces for the mitotic phase .",
+        "section": "10.3",
+        "score": 0.0
+      },
+      {
+        "text": "Each type of pigment c an be identified b y the specific pattern of w avelengths it absorbs fr om visible light: This is termed the\nabsorption spectrum . The gr aph in Figur e 8.13 shows the absorption spectr a for chlor oph ylla, chlor oph yllb, and a type of\ncarotenoid pigment c alled \u03b2 -carotene (which absorbs blue and gr een light). N otic e ho w each pigment has a distinct set of peaks\nand tr oughs , revealing a highly specific pattern of absorption. Chlor oph yllaabsorbs w avelengths fr om either end of the visible\nspectrum (blue and r ed), but not gr een. B ecause gr een is r eflected or tr ansmitted, chlor oph yll appears gr een. Car otenoids\nabsorb in the short-w avelength blue r egion, and r eflect the longer y ellow, red, and or ange w avelengths .8.2 \u2022 The Light -Dependent Reac tions o f Pho tosynthesis 213\nFigur e8.13 (a) Chlor ophylla, (b) chlor ophyllb, and (c) \u03b2-carotene ar e hydrophobic or ganic pigments f ound in the th ylak oid membr ane.",
+        "section": "8.5",
+        "score": 0.0
+      }
+    ],
+    "question_id": "CHEM_CH7_Q2",
+    "correct_sections": "7.2",
+    "figures": "7.5"
+  },
+  {
+    "question": "What does Figure 7.10 illustrate about cation and anion formation?",
+    "retrieved_chunks": [
+      {
+        "text": "Ions and I onic Bonds\nSome atoms ar e mor e stable when they g ain or lose an electr on (or possibly tw o) and f orm ions . This fills their outermost\nelectr on shell and mak es them energetic ally mor e stable . Because the number of electr ons does not equal the number of\nprotons , each ion has a net charge .Cations are positiv e ions that f orm b y losing electr ons. Negativ e ions f orm b y gaining\nelectr ons, which w e call anions . We designate anions by their elemental name and change the ending to \u201c-ide \u201d, thus the anion of\nchlorine is chloride , and the anion of sulfur is sulfide .\nScientists r efer to this mo vement of electr ons fr om one element to another as electr on tr ansf er. As Figur e 2.11 illustr ates ,\nsodium (N a) only has one electr on in its outer electr on shell. It tak es less energy f or sodium to donate that one electr on than it",
+        "section": "1.6",
+        "score": 0.0
+      },
+      {
+        "text": "In the periodic table in Figur e 2.5 , the elements ar e org anized and displa yed ac cording to their atomic number and ar e arr anged\nin a series of r ows and c olumns based on shar ed chemic al and ph ysic al pr operties . In addition to pr oviding the atomic number\nfor each element, the periodic table also displa ys the element\u2019s atomic mass . Looking at c arbon, f or e xample , its symbol (C) and\nname appear , as w ell as its atomic number of six (in the upper left-hand c orner) and its atomic mass of 12.01.2.1 \u2022 A toms , Isotopes , Ions , and Molecules: The Building Block s 33\nFigur e2.5The periodic table sho ws each element's at omic mas s and at omic number . The at omic number appears abo ve the s ymbol f or the\nelement and the appr oximat e atomic mas s appears belo w it.\nThe periodic table gr oups elements ac cording to chemic al pr operties . Scientists base the diff erences in chemic al reactivity",
+        "section": "1.6",
+        "score": 0.0
+      },
+      {
+        "text": "chemic al reactions that f ollow chemic al la ws. The pr operties of w ater and the f ormation of h ydrogen\nbonds ar e key to understanding living pr ocesses . Recognizing the pr operties of acids and bases is\nimportant, f or e xample , to our understanding of the digestiv e pr ocess. Ther efore, the fundamentals of\nphysics and chemistr y are important f or g aining insight into biologic al pr ocesses .Chap ter Outline\n2.1 Atoms , Isotopes ,\nIons, and Molecules:\nThe Building Block s\n2.2 Water\n2.3 Carbon\n2.1Atoms , Isotopes , Ions, and Molecules: The\nBuilding Block s\nBy the end o f this section, y ou wil l be able t o do the f ollowing:\n\u2022Define mat ter and elements\n\u2022Describe the interr elationship be tween pr otons , neutr ons, and elec trons\n\u2022Compar e the w ays in which elec trons can be donated or shar ed be tween atoms\n\u2022Explain the w ays in which natur ally occurring elements combine to cr eate molecules , cells ,\ntissues , organ s ystems , and or ganisms",
+        "section": "1.6",
+        "score": 0.0
+      },
+      {
+        "text": "the element, such as C f or c arbon and Ca f or c alcium. Other elements\u2019 chemic al symbols deriv e from their\nLatin names . For e xample , the symbol f or sodium is N a, referring to natrium , the Latin w ord for sodium.\nThe f our elements c ommon to all living org anisms ar e oxygen (O), c arbon (C), h ydrogen (H), and nitr ogen\n(N). I n the nonliving w orld, elements ar e found in diff erent pr oportions , and some elements c ommon to\nliving org anisms ar e relativ ely r are on the earth as a whole , as Table 2.1 shows. For e xample , the atmospher e\nis rich in nitr ogen and o xygen but c ontains little c arbon and h ydrogen, while the earth \u2019s crust, although it\ncontains o xygen and a small amount of h ydrogen, has little nitr ogen and c arbon. I n spite of their diff erences\nin abundanc e, all elements and the chemic al reactions betw een them obey the same chemic al and ph ysic al\nlaws r egardless of whether they ar e a part of the living or nonliving w orld.",
+        "section": "1.6",
+        "score": 0.0
+      },
+      {
+        "text": "two K+ions into the c ell while r emo ving thr ee N a+ions per A TP c onsumed. As mor e cations ar e expelled fr om the c ell than tak en\nin, the inside of the c ell r emains ne gativ ely charged r elativ e to the e xtracellular fluid. It should be noted that chloride ions (Cl\u2013)\ntend to ac cumulate outside of the c ell bec ause they ar e repelled b y ne gativ ely-charged pr oteins within the cytoplasm.\nIon C oncentr ation I nside and Outside N eurons\nIonExtracellular concentr ation\n(mM)Intracellular concentr ation\n(mM)Ratio outside /\ninside\nNa+145 12 12\nK+ 4 155 0.026\nCl\u2212120 4 30\nOrg anic anions\n(A\u2212)\u2014 100\nTable 35.1 The r esting membr ane potential is a r esult of diff erent c oncentr ations inside and outside the c ell.986 Chap ter 35 \u2022 The Ner vous S ystem\nAccess f or free at opens tax.org.\nFigur e35.10 The (a) r esting membr ane pot ential is a r esul t of diff erent c oncentr ations o f Na+and K+ions inside and outside the c ell. A",
+        "section": "35.2",
+        "score": 0.0
+      }
+    ],
+    "question_id": "CHEM_CH7_Q3",
+    "correct_sections": "7.3",
+    "figures": "7.1"
+  },
+  {
+    "question": "Based on Figure 7.8, what happens to bond type as the electronegativity difference increases?",
+    "retrieved_chunks": [
+      {
+        "text": "LINK T O LE ARNING\nView this short video to see an animation of ionic and c ovalent bonding.\nClick to view c ontent (https://www .openstax. org/l/ionic _covalent)\nPolar Co valent Bonds\nTher e are tw o types of c ovalent bonds: polar and nonpolar . In apolar c ovalent bond ,Figur e 2.12 shows atoms unequally shar e\nthe electr ons and ar e attr acted mor e to one nucleus than the other . Because of the unequal electr on distribution betw een the\natoms of diff erent elements , a slightly positiv e (\u03b4+) or slightly ne gativ e (\u03b4\u2013) charge dev elops . This partial charge is an important\nproperty of w ater and ac counts f or man y of its char acteristics .\nWater is a polar molecule , with the h ydrogen atoms ac quiring a partial positiv e charge and the o xygen a partial ne gativ e charge .\nThis oc curs bec ause the o xygen atom 's nucleus is mor e attr activ e to the h ydrogen atoms' electr ons than the h ydrogen nucleus is",
+        "section": "1.6",
+        "score": 0.0
+      },
+      {
+        "text": "When polar c ovalent bonds c ontaining h ydrogen f orm, the h ydrogen in that bond has a slightly positiv e charge bec ause\nhydrogen \u2019s electr on is pulled mor e str ongly to ward the other element and a way from the h ydrogen. B ecause the h ydrogen is\nslightly positiv e, it will be attr acted to neighboring ne gativ e charges . When this happens , a w eak inter action oc curs betw een the\nhydrogen 's\u03b4+from one molecule and the molecule 's\u03b4\u2013charge on another molecule with the mor e electr onegativ e atoms ,\nusually o xygen. S cientists c all this inter action a hydrogen bond . This type of bond is c ommon and oc curs r egularly betw een\nwater molecules . Individual h ydrogen bonds ar e weak and easily br oken; ho wever, they oc cur in v ery large numbers in w ater and\nin org anic polymers , creating a major f orce in c ombination. H ydrogen bonds ar e also r esponsible f or zipping together the DN A\ndouble helix.",
+        "section": "1.6",
+        "score": 0.0
+      },
+      {
+        "text": "bonds gener ate ma y then be used to f orm h ydrogen bonds based on the attr action of opposite partial charges . (H ydrogen bonds ,\nwhich w e discuss in detail belo w, are weak bonds betw een slightly positiv ely charged h ydrogen atoms to slightly ne gativ ely\ncharged atoms in other molecules .) Since macr omolecules often ha ve atoms within them that diff er in electr onegativity , polar\nbonds ar e often pr esent in org anic molecules .\nNonpolar Co valent Bonds\nNonpolar c ovalent bonds form betw een tw o atoms of the same element or betw een diff erent elements that shar e electr ons\nequally . For e xample , molecular o xygen (O 2) is nonpolar bec ause the electr ons distribute equally betw een the tw o oxygen atoms .\nFigur e 2.12 also sho ws another e xample of a nonpolar c ovalent bond\u2014methane (CH 4). Carbon has f our electr ons in its\noutermost shell and needs f our mor e to fill it. It obtains these f our fr om f our h ydrogen atoms , each atom pr oviding one , making",
+        "section": "1.6",
+        "score": 0.0
+      },
+      {
+        "text": "hydrogen bonds w e described f or standar d sec ondar y structur es. For e xample , R gr oups with lik e charges r epel each other and\nthose with unlik e charges ar e attr acted to each other (ionic bonds). W hen pr otein f olding tak es plac e, the nonpolar amino acids'\nhydrophobic R gr oups lie in the pr otein 's interior; wher eas, the h ydrophilic R gr oups lie on the outside . Scientists also c all the\nformer inter action types h ydrophobic inter actions . Inter action betw een cysteine side chains f orms disulfide link ages in the\npresenc e of o xygen, the only c ovalent bond that f orms during pr otein f olding.\nFigur e3.29 A variety o f chemical int eractions det ermine the pr oteins ' tertiary structur e. These include h ydrophobic int eractions , ionic\nbonding , hydrogen bonding , and disulfide link ages.\nAll of these inter actions , weak and str ong, determine the pr otein 's final thr ee-dimensional shape . When a pr otein loses its",
+        "section": "1.6",
+        "score": 0.0
+      },
+      {
+        "text": "of ne gativ e charges left behind in the c ell. This is the r esting membr ane potential. P otential in this c onte xt means a separ ation of\nelectric al charge that is c apable of doing w ork. It is measur ed in v olts, just lik e a batter y. However, the tr ansmembr ane potential\nis consider ably smaller (0.07 V); ther efore, the small v alue is e xpressed as milliv olts (m V) or 70 m V. Because the inside of a c ell is\nnegativ e compar ed with the outside , a minus sign signifies the e xcess of ne gativ e charges inside the c ell, \u221270 m V.\nIf an ev ent changes the permeability of the membr ane to N a+ions , they will enter the c ell. That will change the v oltage . This is an\nelectric al ev ent, c alled an action potential, that c an be used as a c ellular signal. C ommunic ation oc curs betw een ner ves and\nmuscles thr ough neur otransmitters . Neuron action potentials c ause the r elease of neur otransmitters fr om the synaptic",
+        "section": "38.2",
+        "score": 0.0
+      }
+    ],
+    "question_id": "CHEM_CH7_Q4",
+    "correct_sections": "7.2",
+    "figures": "7.8"
+  },
+  {
+    "question": "Based on Figure 7.3, how many chloride ions (larger spheres) are directly surrounding each sodium ion (smaller sphere) in the sodium chloride lattice?",
+    "retrieved_chunks": [
+      {
+        "text": "two K+ions into the c ell while r emo ving thr ee N a+ions per A TP c onsumed. As mor e cations ar e expelled fr om the c ell than tak en\nin, the inside of the c ell r emains ne gativ ely charged r elativ e to the e xtracellular fluid. It should be noted that chloride ions (Cl\u2013)\ntend to ac cumulate outside of the c ell bec ause they ar e repelled b y ne gativ ely-charged pr oteins within the cytoplasm.\nIon C oncentr ation I nside and Outside N eurons\nIonExtracellular concentr ation\n(mM)Intracellular concentr ation\n(mM)Ratio outside /\ninside\nNa+145 12 12\nK+ 4 155 0.026\nCl\u2212120 4 30\nOrg anic anions\n(A\u2212)\u2014 100\nTable 35.1 The r esting membr ane potential is a r esult of diff erent c oncentr ations inside and outside the c ell.986 Chap ter 35 \u2022 The Ner vous S ystem\nAccess f or free at opens tax.org.\nFigur e35.10 The (a) r esting membr ane pot ential is a r esul t of diff erent c oncentr ations o f Na+and K+ions inside and outside the c ell. A",
+        "section": "35.2",
+        "score": 0.0
+      },
+      {
+        "text": "sodium (N a) only has one electr on in its outer electr on shell. It tak es less energy f or sodium to donate that one electr on than it\ndoes to ac cept sev en mor e electr ons to fill the outer shell. If sodium loses an electr on, it no w has 11 pr otons , 11 neutr ons, and\nonly 10 electr ons, lea ving it with an o verall charge of +1. W e no w refer to it as a sodium ion. Chlorine (Cl) in its lo west energy\nstate (c alled the gr ound state) has sev en electr ons in its outer shell. Ag ain, it is mor e energy -efficient f or chlorine to g ain one\nelectr on than to lose sev en. Ther efore, it tends to g ain an electr on to cr eate an ion with 17 pr otons , 17 neutr ons, and 18 electr ons,\ngiving it a net ne gativ e (\u20131) charge . We no w refer to it as a chloride ion. I n this e xample , sodium will donate its one electr on to\nempty its shell, and chlorine will ac cept that electr on to fill its shell. B oth ions no w satisfy the octet rule and ha ve complete",
+        "section": "1.6",
+        "score": 0.0
+      },
+      {
+        "text": "empty its shell, and chlorine will ac cept that electr on to fill its shell. B oth ions no w satisfy the octet rule and ha ve complete\noutermost shells . Because the number of electr ons is no longer equal to the number of pr otons , each is no w an ion and has a +1\n(sodium c ation) or \u20131 (chloride anion) charge . Note that these tr ansactions c an normally only tak e plac e simultaneously: in or der\nfor a sodium atom to lose an electr on, it must be in the pr esenc e of a suitable r ecipient lik e a chlorine atom.\nFigur e2.11 In the f ormation o f an ionic c ompound, metals lose electr ons and nonmetals g ain electr ons t o achie ve an oct et.\nIonic bonds form betw een ions with opposite charges . For instanc e, positiv ely charged sodium ions and ne gativ ely charged\nchloride ions bond together to mak e crystals of sodium chloride , or table salt, cr eating a cr ystalline molecule with zer o net2.1 \u2022 A toms , Isotopes , Ions , and Molecules: The Building Block s 39\ncharge .",
+        "section": "1.6",
+        "score": 0.0
+      },
+      {
+        "text": "into N a+and Cl\u2013ions , and spher es of h ydration f orm ar ound the ions , as Figur e 2.15 illustr ates . The partially ne gativ e charge of\nthe w ater molecule \u2019s oxygen surr ounds the positiv ely charged sodium ion. The h ydrogen 's partially positiv e charge on the w ater\nmolecule surr ounds the ne gativ ely charged chloride ion.\nFigur e2.15 When w e mix table sal t (NaCl) in w ater, it forms spher es o f hydration ar ound the ions .\nWater\u2019s Cohesiv e and Adhesiv e Proper ties\nHave you ev er filled a glass of w ater to the v ery top and then slo wly added a f ew mor e dr ops? B efore it o verflo ws, the w ater f orms\na dome-lik e shape abo ve the rim of the glass . This w ater c an sta y abo ve the glass bec ause of the pr operty of cohesion . In\ncohesion, w ater molecules ar e attr acted to each other (bec ause of h ydrogen bonding), k eeping the molecules together at the\nliquid-g as (w ater -air) interf ace, although ther e is no mor e room in the glass .",
+        "section": "1.6",
+        "score": 0.0
+      },
+      {
+        "text": "Ions and I onic Bonds\nSome atoms ar e mor e stable when they g ain or lose an electr on (or possibly tw o) and f orm ions . This fills their outermost\nelectr on shell and mak es them energetic ally mor e stable . Because the number of electr ons does not equal the number of\nprotons , each ion has a net charge .Cations are positiv e ions that f orm b y losing electr ons. Negativ e ions f orm b y gaining\nelectr ons, which w e call anions . We designate anions by their elemental name and change the ending to \u201c-ide \u201d, thus the anion of\nchlorine is chloride , and the anion of sulfur is sulfide .\nScientists r efer to this mo vement of electr ons fr om one element to another as electr on tr ansf er. As Figur e 2.11 illustr ates ,\nsodium (N a) only has one electr on in its outer electr on shell. It tak es less energy f or sodium to donate that one electr on than it",
+        "section": "1.6",
+        "score": 0.0
+      }
+    ],
+    "question_id": "CHEM_CH7_Q5",
+    "correct_sections": "7.1",
+    "figures": "7.3"
+  },
+  {
+    "question": "Based on Figure 6.5, which type of radio wave modulation varies the amplitude of the carrier wave?",
+    "retrieved_chunks": [
+      {
+        "text": "Figur e 37.6 .37.2 \u2022 Ho w Hormones W ork 1053\nFigur e37.6 The amino acid-deriv ed hormones epinephrine and nor epinephrine bind t o beta -adr ener gic r eceptors on the plasma\nmembr ane o f cells. Hormone binding t o receptor activ ates a G -protein, which in turn activ ates aden ylyl cy clase , converting A TP to cAMP .\ncAMP is a sec ond mes seng er that mediat es a c ell-specific r esponse . An enzyme cal led phosphodies terase br eaks do wn c AMP , terminating\nthe signal .\nOne v ery important sec ond messenger is cy clic AMP (cAMP). W hen a hormone binds to its membr ane r eceptor , aG-pr otein that\nis associated with the r eceptor is activ ated; G-pr oteins ar e pr oteins separ ate fr om r eceptors that ar e found in the c ell membr ane.\nWhen a hormone is not bound to the r eceptor , the G-pr otein is inactiv e and is bound to guanosine diphosphate , or GDP . When a",
+        "section": "37.1",
+        "score": 0.0
+      },
+      {
+        "text": "cell changes , and the ne xt electric al impulse is launched. The neur otransmitters that ar e released into the chemic al synapse ar e\ndegraded quickly or get r eabsorbed b y the pr esynaptic c ell so that the r ecipient ner ve cell c an r ecover quickly and be pr epar ed to\nrespond r apidly to the ne xt synaptic signal.\nFigur e9.3The dis tanc e betw een the pr esynap tic c ell and the pos tsynap tic c ell\u2014called the s ynap tic g ap\u2014is v ery smal l and al lows for rapid\ndiffusion o f the neur otransmit ter. Enzymes in the s ynapatic g ap degr ade some types o f neur otransmit ters t o terminat e the signal .\nEndocrine Signaling\nSignals fr om distant c ells ar e called endocrine signals , and they originate fr om endocrine c ells. (In the body , man y endocrine\ncells ar e loc ated in endocrine glands , such as the th yroid gland, the h ypothalamus , and the pituitar y gland.) These types of",
+        "section": "8.5",
+        "score": 0.0
+      },
+      {
+        "text": "through the h ydrophobic interior of the membr ane.\nc.Ions do not need ion channels to mo ve thr ough the\nmembr ane.\nd. Ions bind to c arrier pr oteins in the bloodstr eam,\nwhich must be r emo ved bef ore transport into the\ncell.8.Endocrine signals ar e transmitted mor e slo wly than\nparacrine signals bec ause ___________.\na. the lig ands ar e transported thr ough the\nbloodstr eam and tr avel gr eater distanc es\nb.the target and signaling c ells ar e close together\nc.the lig ands ar e de graded r apidly\nd. the lig ands don 't bind to c arrier pr oteins during\ntransport\n9.A scientist notic es that when she adds a small, w ater -\nsoluble molecule to a dish of c ells, the c ells turn off\ntranscription of a gene . She h ypothesizes that the lig and\nshe added binds to a(n) ______ r eceptor .\na. Intracellular\nb.Hormone\nc.Enzyme-link ed\nd. Gated ion channel-link ed\n10.Where do D AG and IP 3originate?\na. They ar e formed b y phosphor ylation of cAMP .",
+        "section": "9.8",
+        "score": 0.0
+      },
+      {
+        "text": "c.Cells e xpress channels that let hormones flo w do wn\ntheir c oncentr ation gr adient into the c ells.\nd. They ar e non-polar molecules .Chap ter 37 \u2022 Visual C onnec tion Ques tions 1077\n7.A new antagonist molecule has been disc overed that\nbinds to and blocks plasma membr ane r eceptors . What\neffect will this antagonist ha ve on testoster one, a ster oid\nhormone?\na. It will block testoster one fr om binding to its\nreceptor .\nb.It will block testoster one fr om activ ating cAMP\nsignaling.\nc.It will incr ease testoster one-mediated signaling.\nd. It will not aff ect testoster one-mediated signaling.\n8.What eff ect will a cAMP inhibitor ha ve on a peptide\nhormone-mediated signaling path way?\na. It will pr event the hormone fr om binding its\nreceptor .\nb.It will pr event activ ation of a G-pr otein.\nc.It will pr event activ ation of aden ylate cy clase .\nd. It will pr event activ ation of pr otein kinases .\n9.When insulin binds to its r eceptor , the c omple x is",
+        "section": "37.1",
+        "score": 0.0
+      },
+      {
+        "text": "a. the plac enta\nb.diffusion thr ough the endometrium\nc.the chorion\nd. the blastocyst\n22.Progester one is made during the thir d trimester b y the:\na. plac enta\nb.endometrial lining\nc.chorion\nd. corpus luteum\n23.Which c ontr aceptiv e method is 100 per cent eff ectiv e at\npreventing pr egnancy?\na. condom\nb.oral hormonal methods\nc.sterilization\nd. abstinenc eChap ter 43 \u2022 Re view Ques tions 1259\n24.Which type of short term c ontr aceptiv e method is\ngener ally mor e eff ectiv e than others?\na. barrier\nb.hormonal\nc.natur al family planning\nd. withdr awal\n25.Which hormone is primarily r esponsible f or the\ncontr actions during labor?\na. oxytocin\nb.estr ogen\nc.\u03b2-HCG\nd. progester one\n26.Major org ans be gin to dev elop during which part of\nhuman gestation?\na. fertilization\nb.first trimester\nc.second trimester\nd. thir d trimester27.Which of the f ollowing is f alse?\na. The endoderm, mesoderm, ectoderm ar e germ\nlayers.\nb.The tr ophoblast is a germ la yer.",
+        "section": "43.6",
+        "score": 0.0
+      }
+    ],
+    "question_id": "CHEM_CH6_Q1",
+    "correct_sections": "6.1",
+    "figures": "6.5"
+  },
+  {
+    "question": "According to Figure 6.35, which element has electron affinity -141?",
+    "retrieved_chunks": [
+      {
+        "text": "In the periodic table in Figur e 2.5 , the elements ar e org anized and displa yed ac cording to their atomic number and ar e arr anged\nin a series of r ows and c olumns based on shar ed chemic al and ph ysic al pr operties . In addition to pr oviding the atomic number\nfor each element, the periodic table also displa ys the element\u2019s atomic mass . Looking at c arbon, f or e xample , its symbol (C) and\nname appear , as w ell as its atomic number of six (in the upper left-hand c orner) and its atomic mass of 12.01.2.1 \u2022 A toms , Isotopes , Ions , and Molecules: The Building Block s 33\nFigur e2.5The periodic table sho ws each element's at omic mas s and at omic number . The at omic number appears abo ve the s ymbol f or the\nelement and the appr oximat e atomic mas s appears belo w it.\nThe periodic table gr oups elements ac cording to chemic al pr operties . Scientists base the diff erences in chemic al reactivity",
+        "section": "1.6",
+        "score": 0.0
+      },
+      {
+        "text": "Hydrogen will donate or shar e its electr on to achiev e this c onfigur ation, while lithium and sodium will donate their electr on to\nbecome stable . As a r esult of losing a ne gativ ely charged electr on, they bec ome positiv ely charged ions . Group 17 elements ,\nincluding fluorine and chlorine , have sev en electr ons in their outmost shells , so they tend to fill this shell with an electr on fr om\nother atoms or molecules , making them ne gativ ely charged ions . Group 14 elements , of which c arbon is the most important to\nliving systems , have four electr ons in their outer shell allo wing them to mak e sev eral covalent bonds (discussed belo w) with\nother atoms . Thus , the periodic table 's columns r epresent the potential shar ed state of these elements\u2019 outer electr on shells that\nis responsible f or their similar chemic al char acteristics .\nElectr on Orbitals",
+        "section": "1.6",
+        "score": 0.0
+      },
+      {
+        "text": "element fr om another , and the number of electr ons it has . In all electric ally neutr al atoms , the number of electr ons is the same\nas the number of pr otons . Thus , each element, at least when electric ally neutr al, has a char acteristic number of electr ons equal\nto its atomic number .\nIn 1913, Danish scientist N iels B ohr (1885\u20131962) dev eloped an early model of the atom. The B ohr model sho ws the atom as a\ncentr al nucleus c ontaining pr otons and neutr ons, with the electr ons in cir cular orbitals at specific distanc es fr om the nucleus ,\nasFigur e 2.6 illustr ates . These orbits f orm electr on shells or energy lev els, which ar e a w ay of visualizing the number of electr ons\nin the outermost shells . These energy lev els ar e designated b y a number and the symbol \u201cn. \u201d For e xample , 1n r epresents the first\nenergy lev el loc ated closest to the nucleus .34 Chap ter 2 \u2022 The Chemical F oundation o f Life\nAccess f or free at opens tax.org.",
+        "section": "1.6",
+        "score": 0.0
+      },
+      {
+        "text": "the element, such as C f or c arbon and Ca f or c alcium. Other elements\u2019 chemic al symbols deriv e from their\nLatin names . For e xample , the symbol f or sodium is N a, referring to natrium , the Latin w ord for sodium.\nThe f our elements c ommon to all living org anisms ar e oxygen (O), c arbon (C), h ydrogen (H), and nitr ogen\n(N). I n the nonliving w orld, elements ar e found in diff erent pr oportions , and some elements c ommon to\nliving org anisms ar e relativ ely r are on the earth as a whole , as Table 2.1 shows. For e xample , the atmospher e\nis rich in nitr ogen and o xygen but c ontains little c arbon and h ydrogen, while the earth \u2019s crust, although it\ncontains o xygen and a small amount of h ydrogen, has little nitr ogen and c arbon. I n spite of their diff erences\nin abundanc e, all elements and the chemic al reactions betw een them obey the same chemic al and ph ysic al\nlaws r egardless of whether they ar e a part of the living or nonliving w orld.",
+        "section": "1.6",
+        "score": 0.0
+      },
+      {
+        "text": "atomic mas s is 12.011\nHow man y neutr ons do c arbon-12 and c arbon-13 ha ve, respectiv ely?\nIsotopes\nIsotopes are diff erent f orms of an element that ha ve the same number of pr otons but a diff erent number of neutr ons. Some\nelements\u2014such as c arbon, potassium, and ur anium\u2014ha ve natur ally oc curring isotopes . Carbon-12 c ontains six pr otons , six\nneutr ons, and six electr ons; ther efore, it has a mass number of 12 (six pr otons and six neutr ons). Carbon-14 c ontains six pr otons ,\neight neutr ons, and six electr ons; its atomic mass is 14 (six pr otons and eight neutr ons). These tw o alternate f orms of c arbon ar e\nisotopes . Some isotopes ma y emit neutr ons, protons , and electr ons, and attain a mor e stable atomic c onfigur ation (lo wer lev el\nof potential energy); these ar e radioactiv e isotopes , or radioisotopes . Radioactiv e dec ay (carbon-14 dec aying to ev entually",
+        "section": "1.6",
+        "score": 0.0
+      }
+    ],
+    "question_id": "CHEM_CH6_Q2",
+    "correct_sections": "6.5",
+    "figures": "6.35"
+  },
+  {
+    "question": "According to Figure 18.12, which crystal structure is not layered?",
+    "retrieved_chunks": [
+      {
+        "text": "Everyday C onnec tion\nChesapeak e Ba y\nFigur e46.20 This (a) sat ellite imag e sho ws the Chesapeak e Ba y, an ec osystem aff ected b y phosphat e and nitr ate runo ff. A (b) member\nof the Arm y Corps o f Engineers holds a clump o f oysters being used as a par t of the o yster restoration eff ort in the ba y. (credit a:\nmodification o f work b y NASA/MODIS; cr edit b: modification o f work b y U.S. Arm y)1362 Chap ter 46 \u2022 Ecos ystems\nAccess f or free at opens tax.org.\nThe Sulfur Cy cle\nSulfur is an essential element f or the macr omolecules of living things . As a part of the amino acid cysteine , it is in volved in the\nformation of disulfide bonds within pr oteins , which help to determine their 3- D folding patterns , and henc e their functions . As\nshown in Figur e 46.21 , sulfur cy cles betw een the oc eans , land, and atmospher e. Atmospheric sulfur is f ound in the f orm of",
+        "section": "46.1",
+        "score": 0.0
+      },
+      {
+        "text": "molecules (which look lik e a c ollection of balls in an artist\u2019s r endition of the model) ( Figur e 5.2 ) are in c ontact with the aqueous\nfluid both inside and outside the c ell.Hydrophobic , or w ater -hating molecules , tend to be non-polar . They inter act with other\nnon-polar molecules in chemic al reactions , but gener ally do not inter act with polar molecules . When plac ed in w ater ,\nhydrophobic molecules tend to f orm a ball or cluster . The phospholipids' h ydrophilic r egions f orm h ydrogen bonds with w ater\nand other polar molecules on both the c ell's e xterior and interior . Thus , the membr ane surf aces that f ace the c ell's interior and\nexterior ar e hydrophilic . In contr ast, the c ell membr ane's interior is h ydrophobic and will not inter act with w ater . Ther efore,\nphospholipids f orm an e xcellent tw o-la yer cell membr ane that separ ates fluid within the c ell fr om the fluid outside the c ell.",
+        "section": "4.8",
+        "score": 0.0
+      },
+      {
+        "text": "compounds . Carbon ac counts f or about 50 per cent of the c omposition of the c ell. I n contr ast, nitr ogen r epresents only 12\npercent of the total dr y weight of a typic al cell. N itrogen is a c omponent of pr oteins , nucleic acids , and other c ell c onstituents .\nMost of the nitr ogen a vailable in natur e is either atmospheric nitr ogen (N 2) or another inorg anic f orm. Diatomic (N 2) nitr ogen,\nhowever, can be c onverted into an org anic f orm only b y certain micr oorg anisms , called nitr ogen-fixing org anisms . Both\nhydrogen and o xygen ar e part of man y org anic c ompounds and of w ater . Phosphorus is r equir ed b y all org anisms f or the\nsynthesis of nucleotides and phospholipids . Sulfur is part of the structur e of some amino acids such as cysteine and methionine ,\nand is also pr esent in sev eral vitamins and c oenzymes . Other important macr onutrients ar e potassium (K), magnesium (Mg),",
+        "section": "22.3",
+        "score": 0.0
+      },
+      {
+        "text": "forming the disulfide link ages that hold the r emaining chains together . Silk (a fibr ous pr otein), ho wever, has a \u03b2-pleated sheet\nstructur e that is the r esult of h ydrogen bonding betw een diff erent chains .\nFigur e 3.30 illustr ates the f our lev els of pr otein structur e (primar y, sec ondar y, tertiar y, and quaternar y).3.4 \u2022 P roteins 83\nFigur e3.30 Obser ve the f our le vels o f protein s tructur e in these il lustrations . (credit: modification o f work b y National Human Genome\nResear ch Ins titut e)\nDena turation and P rotein F olding\nEach pr otein has its o wn unique sequenc e and shape that chemic al inter actions hold together . If the pr otein is subject to\nchanges in temper atur e, pH, or e xposur e to chemic als, the pr otein structur e ma y change , losing its shape without losing its\nprimar y sequenc e in what scientists c all denatur ation. Denatur ation is often r eversible bec ause the polypeptide 's primar y",
+        "section": "1.6",
+        "score": 0.0
+      },
+      {
+        "text": "octamer c omposed of tw o molecules of each of f our diff erent histones . The DN A (remember , it is ne gativ ely charged bec ause of\nthe phosphate gr oups) is wr apped tightly ar ound the histone c ore. This nucleosome is link ed to the ne xt one with the help of a\nlink er DN A. This is also kno wn as the \u201cbeads on a string \u201d structur e. With the help of a fifth histone , a string of nucleosomes is\nfurther c ompacted into a 30-nm fiber , which is the diameter of the structur e. Metaphase chr omosomes ar e ev en further\ncondensed b y association with sc affolding pr oteins . At the metaphase stage , the chr omosomes ar e at their most c ompact,\nappr oximately 700 nm in width.\nIn interphase , euk aryotic chr omosomes ha ve tw o distinct r egions that c an be distinguished b y staining. The tightly pack aged\nregion is kno wn as heter ochr omatin, and the less dense r egion is kno wn as euchr omatin. H eter ochr omatin usually c ontains",
+        "section": "14.1",
+        "score": 0.0
+      }
+    ],
+    "question_id": "CHEM_CH18_Q1",
+    "correct_sections": "18.3",
+    "figures": "18.12"
+  },
+  {
+    "question": "In Figure 18.13, how many corners does the solid shape have (the corners are denoted by the letter B)?",
+    "retrieved_chunks": [
+      {
+        "text": "Body Plans\nFigur e33.2 Animals e xhibit diff erent types o f body s ymmetr y. The spong e is as ymmetrical , the sea anemone has\nradial s ymmetr y, and the g oat has bilat eral symmetr y.\nAnimal body plans f ollow set patterns r elated to symmetr y. They ar e asymmetric al, r adial, or bilater al in\nform as illustr ated in Figur e 33.2 .Asymmetric alanimals ar e animals with no pattern or symmetr y; an\nexample of an asymmetric al animal is a sponge . Radial symmetr y, as illustr ated in Figur e 33.2 , describes\nwhen an animal has an up-and-do wn orientation: an y plane cut along its longitudinal axis thr ough the\norganism pr oduc es equal halv es, but not a definite right or left side . This plan is f ound mostly in aquatic\nanimals , especially org anisms that attach themselv es to a base , lik e a r ock or a boat, and e xtract their f ood\nfrom the surr ounding w ater as it flo ws ar ound the org anism. B ilater al symmetr y is illustr ated in the same",
+        "section": "33.1",
+        "score": 0.0
+      },
+      {
+        "text": "Access f or free at opens tax.org.\nFigur e27.8 Bilat eral symmetr y. The bilat erally symmetrical human body can be divided b y several planes .\nAnimals in the ph ylum E chinodermata (such as sea stars , sand dollars , and sea ur chins) displa y modified r adial symmetr y as\nadults , but as w e ha ve noted, their lar val stages (such as the bipinnaria) initially e xhibit bilater al symmetr y until they\nmetamorphose in animals with r adial symmetr y (this is termed sec ondar y radial symmetr y). E chinoderms ev olved fr om\nbilater ally symmetric al animals; thus , they ar e classified as bilater ally symmetric al.\nLINK T O LE ARNING\nWatch this video to see a quick sk etch of the diff erent types of body symmetr y.\nClick to view c ontent (https://www .openstax. org/l/symmetr y)\nAnimal Char acteriza tion Based on F eatures o f Embr yological De velopment\nMost animal species undergo a separ ation of tissues into germ la yers during embr yonic dev elopment. R ecall that these germ",
+        "section": "27.1",
+        "score": 0.0
+      },
+      {
+        "text": "meet the unique demands of a particular animal\u2019s lif estyle .\nRadial symmetr yis the arr angement of body parts ar ound a c entr al axis , as is seen in a bicy cle wheel or pie . It r esults in animals\nhaving top and bottom surf aces but no left and right sides , nor fr ont or back. If a r adially symmetric al animal is divided in an y\ndirection along the or al/abor al axis (the side with a mouth is \u201cor al side ,\u201d and the side without a mouth is the \u201cabor al side \u201d), the\ntwo halv es will be mirr or images . This f orm of symmetr y marks the body plans of man y animals in the ph yla C nidaria, including\njellyfish and adult sea anemones ( Figur e 27.7 b, c). R adial symmetr y equips these sea cr eatur es (which ma y be sedentar y or only\ncapable of slo w mo vement or floating) to e xperienc e the en vironment equally fr om all dir ections . Bilater ally symmetric al",
+        "section": "27.1",
+        "score": 0.0
+      },
+      {
+        "text": "during the c older parts of the da y, when they c onsume mor e energy to maintain their body temper atur e.\nAnimal Body Planes and Ca vities\nA standing v ertebr ate animal c an be divided b y sev eral planes . Asagittal plane divides the body into right and left portions . A\nmidsagittal plane divides the body e xactly in the middle , making tw o equal right and left halv es. Afrontal plane (also c alled a\ncoronal plane) separ ates the fr ont fr om the back. A transv erse plane (or, horizontal plane) divides the animal into upper and\nlower portions . This is sometimes c alled a cr oss section, and, if the tr ansv erse cut is at an angle , it is c alled an oblique plane .\nFigur e 33.5 illustr ates these planes on a goat (a f our-legged animal) and a human being.\nFigur e33.5 Shown ar e the planes o f a quadrupedal g oat and a bipedal human. The midsagit tal plane divides the body e xactl y in half , into",
+        "section": "33.1",
+        "score": 0.0
+      },
+      {
+        "text": "Animal Char acteriza tion Based on Body Symmetr y\nAt a v ery basic lev el of classific ation, true animals c an be largely divided into thr ee gr oups based on the type of symmetr y of\ntheir body plan: r adially symmetric al, bilater ally symmetric al, and asymmetric al. Asymmetr y is seen in tw o modern clades , the\nParazoa ( Figur e 27.7 a) and Plac ozoa. (A lthough w e should note that the anc estr al fossils of the P arazoa appar ently e xhibited\nbilater al symmetr y.) One clade , the C nidaria ( Figur e 27.7 b,c), e xhibits r adial or bir adial symmetr y: Ctenophor es ha ve rotational\nsymmetr y (Figur e 27.7 e). B ilater al symmetr y is seen in the largest of the clades , the B ilateria ( Figur e 27.7 d); ho wever the\nEchinodermata ar e bilater al as lar vae and metamorphose sec ondarily into r adial adults . All types of symmetr y are well suited to27.2 \u2022 F eatur es Used to Classif y Animals 705\nmeet the unique demands of a particular animal\u2019s lif estyle .",
+        "section": "27.1",
+        "score": 0.0
+      }
+    ],
+    "question_id": "CHEM_CH18_Q2",
+    "correct_sections": "18.3",
+    "figures": "18.13"
+  },
+  {
+    "question": "In the apparatus used to purify silicon shown in Figure 18.14, which one is between the impure silicon stage and pure silicon stage?",
+    "retrieved_chunks": [
+      {
+        "text": "during inter course . The penis c ontains thr ee tubes of er ectile tissue running thr ough the length of the org an. These c onsist of a\npair of tubes on the dorsal side , called the c orpus c avernosum, and a single tube of tissue on the v entr al side , called the c orpus\nspongiosum. This tissue will bec ome engorged with blood, bec oming er ect and har d, in pr epar ation f or inter course . The org an\nis inserted into the v agina culminating with an ejaculation. During inter course , the smooth muscle sphincters at the opening to\nthe r enal bladder close and pr event urine fr om entering the penis . An org asm is a tw o-stage pr ocess: first, glands and ac cessor y\norgans c onnected to the testes c ontr act, then semen (c ontaining sperm) is e xpelled thr ough the ur ethr a during ejaculation. After\ninter course , the blood dr ains fr om the er ectile tissue and the penis bec omes flac cid.",
+        "section": "43.1",
+        "score": 0.0
+      },
+      {
+        "text": "mucus int o the r espir atory tract.\nTransitional Epithelia\nTransitional or ur oepithelial c ells appear only in the urinar y system, primarily in the bladder and ur eter . These c ells ar e\narranged in a str atified la yer, but they ha ve the c apability of appearing to pile up on top of each other in a r elax ed, empty\nbladder , as illustr ated in Figur e 33.11 . As the urinar y bladder fills , the epithelial la yer unf olds and e xpands to hold the v olume of\nurine intr oduc ed into it. As the bladder fills , it e xpands and the lining bec omes thinner . In other w ords, the tissue tr ansitions33.2 \u2022 Animal P rimar y Tissues 929\nfrom thick to thin.\nVISU AL C ONNE CTION\nFigur e33.11 Transitional epithelia o f the urinar y bladder under go chang es in thicknes s depending on ho w ful l the bladder is .\nWhich of the f ollowing statements about types of epithelial c ells is f alse?\na. Simple c olumnar epithelial c ells line the tissue of the lung.",
+        "section": "33.2",
+        "score": 0.0
+      },
+      {
+        "text": "provide lubric ation during inter course .\nFigur e43.10 The r eproductiv e structur es o f the human f emale ar e sho wn. (cr edit a: modification o f work b y Gr ay's Anat omy; cr edit b:\nmodification o f work b y CDC)\nFemale R eproductiv e Anatom y\nOrgan Location Function\nClitoris External Sensor y org an\nMons pubis External Fatty ar ea o verlying pubic bone\nTable 43.21234 Chap ter 43 \u2022 Animal Repr oduc tion and De velopment\nAccess f or free at opens tax.org.\nOrgan Location Function\nLabia major a External Covers labia minor a\nLabia minor a External Covers v estibule\nGreater v estibular glands External Secrete mucus; lubric ate v agina\nBreasts External Produc e and deliv er milk\nOvaries Internal Carr y and dev elop e ggs\nOviducts (F allopian tubes) Internal Transport e gg to uterus\nUterus Internal Support dev eloping embr yo\nVagina Internal Common tube f or inter course , birth c anal, passing menstrual flo w\nTable 43.2",
+        "section": "43.1",
+        "score": 0.0
+      },
+      {
+        "text": "water tak en in is lost ag ain and must be c ontinually c onsumed. If the c ondition is not sev ere, deh ydration ma y not oc cur, but\nsevere cases c an lead to electr olyte imbalanc es due to deh ydration.\nAnother hormone r esponsible f or maintaining electr olyte c oncentr ations in e xtracellular fluids is aldoster one , a ster oid\nhormone that is pr oduc ed b y the adr enal c orte x. In contr ast to ADH , which pr omotes the r eabsorption of w ater to maintain\nproper w ater balanc e, aldoster one maintains pr oper w ater balanc e by enhancing N a+reabsorption and K+secr etion fr om\nextracellular fluid of the c ells in kidney tubules . Because it is pr oduc ed in the c orte x of the adr enal gland and aff ects the\nconcentr ations of miner als N a+and K+, aldoster one is r eferred to as a miner aloc ortic oid , a c ortic oster oid that aff ects ion and",
+        "section": "37.1",
+        "score": 0.0
+      },
+      {
+        "text": "Uterus Internal Support dev eloping embr yo\nVagina Internal Common tube f or inter course , birth c anal, passing menstrual flo w\nTable 43.2\nThe br easts c onsist of mammar y glands and f at. The size of the br east is determined b y the amount of f at deposited behind the\ngland. E ach gland c onsists of 15 to 25 lobes that ha ve ducts that empty at the nipple and that supply the nursing child with\nnutrient- and antibody -rich milk to aid dev elopment and pr otect the child.\nInternal f emale r eproductiv e structur es include o varies , oviducts , the uterus , and the v agina, sho wn in Figur e 43.10 . The pair of\novaries is held in plac e in the abdominal c avity b y a system of lig aments . Ovaries c onsist of a medulla and c orte x: the medulla\ncontains ner ves and blood v essels to supply the c orte x with nutrients and r emo ve waste . The outer la yers of c ells of the c orte x ar e",
+        "section": "43.1",
+        "score": 0.0
+      }
+    ],
+    "question_id": "CHEM_CH18_Q3",
+    "correct_sections": "18.3",
+    "figures": "18.14"
+  }
+]
